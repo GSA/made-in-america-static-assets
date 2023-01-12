@@ -1,0 +1,4230 @@
+[
+ {
+   "NAICS_Code": 111110,
+   "NAICS_Title": "Soybean Farming"
+ },
+ {
+   "NAICS_Code": 111120,
+   "NAICS_Title": "Oilseed (except Soybean) Farming"
+ },
+ {
+   "NAICS_Code": 111130,
+   "NAICS_Title": "Dry Pea and Bean Farming"
+ },
+ {
+   "NAICS_Code": 111140,
+   "NAICS_Title": "Wheat Farming"
+ },
+ {
+   "NAICS_Code": 111150,
+   "NAICS_Title": "Corn Farming"
+ },
+ {
+   "NAICS_Code": 111160,
+   "NAICS_Title": "Rice Farming"
+ },
+ {
+   "NAICS_Code": 111191,
+   "NAICS_Title": "Oilseed and Grain Combination Farming"
+ },
+ {
+   "NAICS_Code": 111199,
+   "NAICS_Title": "All Other Grain Farming"
+ },
+ {
+   "NAICS_Code": 111211,
+   "NAICS_Title": "Potato Farming"
+ },
+ {
+   "NAICS_Code": 111219,
+   "NAICS_Title": "Other Vegetable (except Potato) and Melon Farming"
+ },
+ {
+   "NAICS_Code": 111310,
+   "NAICS_Title": "Orange Groves"
+ },
+ {
+   "NAICS_Code": 111320,
+   "NAICS_Title": "Citrus (except Orange) Groves"
+ },
+ {
+   "NAICS_Code": 111331,
+   "NAICS_Title": "Apple Orchards"
+ },
+ {
+   "NAICS_Code": 111332,
+   "NAICS_Title": "Grape Vineyards"
+ },
+ {
+   "NAICS_Code": 111333,
+   "NAICS_Title": "Strawberry Farming"
+ },
+ {
+   "NAICS_Code": 111334,
+   "NAICS_Title": "Berry (except Strawberry) Farming"
+ },
+ {
+   "NAICS_Code": 111335,
+   "NAICS_Title": "Tree Nut Farming"
+ },
+ {
+   "NAICS_Code": 111336,
+   "NAICS_Title": "Fruit and Tree Nut Combination Farming"
+ },
+ {
+   "NAICS_Code": 111339,
+   "NAICS_Title": "Other Noncitrus Fruit Farming"
+ },
+ {
+   "NAICS_Code": 111411,
+   "NAICS_Title": "Mushroom Production"
+ },
+ {
+   "NAICS_Code": 111419,
+   "NAICS_Title": "Other Food Crops Grown Under Cover"
+ },
+ {
+   "NAICS_Code": 111421,
+   "NAICS_Title": "Nursery and Tree Production"
+ },
+ {
+   "NAICS_Code": 111422,
+   "NAICS_Title": "Floriculture Production"
+ },
+ {
+   "NAICS_Code": 111910,
+   "NAICS_Title": "Tobacco Farming"
+ },
+ {
+   "NAICS_Code": 111920,
+   "NAICS_Title": "Cotton Farming"
+ },
+ {
+   "NAICS_Code": 111930,
+   "NAICS_Title": "Sugarcane Farming"
+ },
+ {
+   "NAICS_Code": 111940,
+   "NAICS_Title": "Hay Farming"
+ },
+ {
+   "NAICS_Code": 111991,
+   "NAICS_Title": "Sugar Beet Farming"
+ },
+ {
+   "NAICS_Code": 111992,
+   "NAICS_Title": "Peanut Farming"
+ },
+ {
+   "NAICS_Code": 111998,
+   "NAICS_Title": "All Other Miscellaneous Crop Farming"
+ },
+ {
+   "NAICS_Code": 112111,
+   "NAICS_Title": "Beef Cattle Ranching and Farming"
+ },
+ {
+   "NAICS_Code": 112112,
+   "NAICS_Title": "Cattle Feedlots"
+ },
+ {
+   "NAICS_Code": 112120,
+   "NAICS_Title": "Dairy Cattle and Milk Production"
+ },
+ {
+   "NAICS_Code": 112130,
+   "NAICS_Title": "Dual-Purpose Cattle Ranching and Farming"
+ },
+ {
+   "NAICS_Code": 112210,
+   "NAICS_Title": "Hog and Pig Farming"
+ },
+ {
+   "NAICS_Code": 112310,
+   "NAICS_Title": "Chicken Egg Production"
+ },
+ {
+   "NAICS_Code": 112320,
+   "NAICS_Title": "Broilers and Other Meat Type Chicken Production"
+ },
+ {
+   "NAICS_Code": 112330,
+   "NAICS_Title": "Turkey Production"
+ },
+ {
+   "NAICS_Code": 112340,
+   "NAICS_Title": "Poultry Hatcheries"
+ },
+ {
+   "NAICS_Code": 112390,
+   "NAICS_Title": "Other Poultry Production"
+ },
+ {
+   "NAICS_Code": 112410,
+   "NAICS_Title": "Sheep Farming"
+ },
+ {
+   "NAICS_Code": 112420,
+   "NAICS_Title": "Goat Farming"
+ },
+ {
+   "NAICS_Code": 112511,
+   "NAICS_Title": "Finfish Farming and Fish Hatcheries"
+ },
+ {
+   "NAICS_Code": 112512,
+   "NAICS_Title": "Shellfish Farming"
+ },
+ {
+   "NAICS_Code": 112519,
+   "NAICS_Title": "Other Aquaculture"
+ },
+ {
+   "NAICS_Code": 112910,
+   "NAICS_Title": "Apiculture"
+ },
+ {
+   "NAICS_Code": 112920,
+   "NAICS_Title": "Horses and Other Equine Production"
+ },
+ {
+   "NAICS_Code": 112930,
+   "NAICS_Title": "Fur-Bearing Animal and Rabbit Production"
+ },
+ {
+   "NAICS_Code": 112990,
+   "NAICS_Title": "All Other Animal Production"
+ },
+ {
+   "NAICS_Code": 113110,
+   "NAICS_Title": "Timber Tract Operations"
+ },
+ {
+   "NAICS_Code": 113210,
+   "NAICS_Title": "Forest Nurseries and Gathering of Forest Products"
+ },
+ {
+   "NAICS_Code": 113310,
+   "NAICS_Title": "Logging"
+ },
+ {
+   "NAICS_Code": 114111,
+   "NAICS_Title": "Finfish Fishing"
+ },
+ {
+   "NAICS_Code": 114112,
+   "NAICS_Title": "Shellfish Fishing"
+ },
+ {
+   "NAICS_Code": 114119,
+   "NAICS_Title": "Other Marine Fishing"
+ },
+ {
+   "NAICS_Code": 114210,
+   "NAICS_Title": "Hunting and Trapping"
+ },
+ {
+   "NAICS_Code": 115111,
+   "NAICS_Title": "Cotton Ginning"
+ },
+ {
+   "NAICS_Code": 115112,
+   "NAICS_Title": "Soil Preparation, Planting, and Cultivating "
+ },
+ {
+   "NAICS_Code": 115113,
+   "NAICS_Title": "Crop Harvesting, Primarily by Machine "
+ },
+ {
+   "NAICS_Code": 115114,
+   "NAICS_Title": "Postharvest Crop Activities (except Cotton Ginning)"
+ },
+ {
+   "NAICS_Code": 115115,
+   "NAICS_Title": "Farm Labor Contractors and Crew Leaders"
+ },
+ {
+   "NAICS_Code": 115116,
+   "NAICS_Title": "Farm Management Services"
+ },
+ {
+   "NAICS_Code": 115210,
+   "NAICS_Title": "Support Activities for Animal Production"
+ },
+ {
+   "NAICS_Code": 115310,
+   "NAICS_Title": "Support Activities for Forestry"
+ },
+ {
+   "NAICS_Code": 211120,
+   "NAICS_Title": "Crude Petroleum Extraction "
+ },
+ {
+   "NAICS_Code": 211130,
+   "NAICS_Title": "Natural Gas Extraction"
+ },
+ {
+   "NAICS_Code": 212111,
+   "NAICS_Title": "Bituminous Coal and Lignite Surface Mining"
+ },
+ {
+   "NAICS_Code": 212112,
+   "NAICS_Title": "Bituminous Coal Underground Mining"
+ },
+ {
+   "NAICS_Code": 212113,
+   "NAICS_Title": "Anthracite Mining"
+ },
+ {
+   "NAICS_Code": 212210,
+   "NAICS_Title": "Iron Ore Mining"
+ },
+ {
+   "NAICS_Code": 212221,
+   "NAICS_Title": "Gold Ore Mining"
+ },
+ {
+   "NAICS_Code": 212222,
+   "NAICS_Title": "Silver Ore Mining"
+ },
+ {
+   "NAICS_Code": 212230,
+   "NAICS_Title": "Copper, Nickel, Lead, and Zinc Mining "
+ },
+ {
+   "NAICS_Code": 212291,
+   "NAICS_Title": "Uranium-Radium-Vanadium Ore Mining"
+ },
+ {
+   "NAICS_Code": 212299,
+   "NAICS_Title": "All Other Metal Ore Mining"
+ },
+ {
+   "NAICS_Code": 212311,
+   "NAICS_Title": "Dimension Stone Mining and Quarrying"
+ },
+ {
+   "NAICS_Code": 212312,
+   "NAICS_Title": "Crushed and Broken Limestone Mining and Quarrying"
+ },
+ {
+   "NAICS_Code": 212313,
+   "NAICS_Title": "Crushed and Broken Granite Mining and Quarrying"
+ },
+ {
+   "NAICS_Code": 212319,
+   "NAICS_Title": "Other Crushed and Broken Stone Mining and Quarrying"
+ },
+ {
+   "NAICS_Code": 212321,
+   "NAICS_Title": "Construction Sand and Gravel Mining"
+ },
+ {
+   "NAICS_Code": 212322,
+   "NAICS_Title": "Industrial Sand Mining"
+ },
+ {
+   "NAICS_Code": 212324,
+   "NAICS_Title": "Kaolin and Ball Clay Mining"
+ },
+ {
+   "NAICS_Code": 212325,
+   "NAICS_Title": "Clay and Ceramic and Refractory Minerals Mining"
+ },
+ {
+   "NAICS_Code": 212391,
+   "NAICS_Title": "Potash, Soda, and Borate Mineral Mining "
+ },
+ {
+   "NAICS_Code": 212392,
+   "NAICS_Title": "Phosphate Rock Mining"
+ },
+ {
+   "NAICS_Code": 212393,
+   "NAICS_Title": "Other Chemical and Fertilizer Mineral Mining"
+ },
+ {
+   "NAICS_Code": 212399,
+   "NAICS_Title": "All Other Nonmetallic Mineral Mining"
+ },
+ {
+   "NAICS_Code": 213111,
+   "NAICS_Title": "Drilling Oil and Gas Wells"
+ },
+ {
+   "NAICS_Code": 213112,
+   "NAICS_Title": "Support Activities for Oil and Gas Operations"
+ },
+ {
+   "NAICS_Code": 213113,
+   "NAICS_Title": "Support Activities for Coal Mining"
+ },
+ {
+   "NAICS_Code": 213114,
+   "NAICS_Title": "Support Activities for Metal Mining"
+ },
+ {
+   "NAICS_Code": 213115,
+   "NAICS_Title": "Support Activities for Nonmetallic Minerals (except Fuels) Mining"
+ },
+ {
+   "NAICS_Code": 221111,
+   "NAICS_Title": "Hydroelectric Power Generation"
+ },
+ {
+   "NAICS_Code": 221112,
+   "NAICS_Title": "Fossil Fuel Electric Power Generation"
+ },
+ {
+   "NAICS_Code": 221113,
+   "NAICS_Title": "Nuclear Electric Power Generation"
+ },
+ {
+   "NAICS_Code": 221114,
+   "NAICS_Title": "Solar Electric Power Generation"
+ },
+ {
+   "NAICS_Code": 221115,
+   "NAICS_Title": "Wind Electric Power Generation"
+ },
+ {
+   "NAICS_Code": 221116,
+   "NAICS_Title": "Geothermal Electric Power Generation"
+ },
+ {
+   "NAICS_Code": 221117,
+   "NAICS_Title": "Biomass Electric Power Generation"
+ },
+ {
+   "NAICS_Code": 221118,
+   "NAICS_Title": "Other Electric Power Generation"
+ },
+ {
+   "NAICS_Code": 221121,
+   "NAICS_Title": "Electric Bulk Power Transmission and Control"
+ },
+ {
+   "NAICS_Code": 221122,
+   "NAICS_Title": "Electric Power Distribution"
+ },
+ {
+   "NAICS_Code": 221210,
+   "NAICS_Title": "Natural Gas Distribution"
+ },
+ {
+   "NAICS_Code": 221310,
+   "NAICS_Title": "Water Supply and Irrigation Systems"
+ },
+ {
+   "NAICS_Code": 221320,
+   "NAICS_Title": "Sewage Treatment Facilities"
+ },
+ {
+   "NAICS_Code": 221330,
+   "NAICS_Title": "Steam and Air-Conditioning Supply"
+ },
+ {
+   "NAICS_Code": 236115,
+   "NAICS_Title": "New Single-Family Housing Construction (except For-Sale Builders)"
+ },
+ {
+   "NAICS_Code": 236116,
+   "NAICS_Title": "New Multifamily Housing Construction (except For-Sale Builders)"
+ },
+ {
+   "NAICS_Code": 236117,
+   "NAICS_Title": "New Housing For-Sale Builders"
+ },
+ {
+   "NAICS_Code": 236118,
+   "NAICS_Title": "Residential Remodelers"
+ },
+ {
+   "NAICS_Code": 236210,
+   "NAICS_Title": "Industrial Building Construction"
+ },
+ {
+   "NAICS_Code": 236220,
+   "NAICS_Title": "Commercial and Institutional Building Construction"
+ },
+ {
+   "NAICS_Code": 237110,
+   "NAICS_Title": "Water and Sewer Line and Related Structures Construction"
+ },
+ {
+   "NAICS_Code": 237120,
+   "NAICS_Title": "Oil and Gas Pipeline and Related Structures Construction"
+ },
+ {
+   "NAICS_Code": 237130,
+   "NAICS_Title": "Power and Communication Line and Related Structures Construction"
+ },
+ {
+   "NAICS_Code": 237210,
+   "NAICS_Title": "Land Subdivision"
+ },
+ {
+   "NAICS_Code": 237310,
+   "NAICS_Title": "Highway, Street, and Bridge Construction "
+ },
+ {
+   "NAICS_Code": 237990,
+   "NAICS_Title": "Other Heavy and Civil Engineering Construction"
+ },
+ {
+   "NAICS_Code": 238110,
+   "NAICS_Title": "Poured Concrete Foundation and Structure Contractors"
+ },
+ {
+   "NAICS_Code": 238120,
+   "NAICS_Title": "Structural Steel and Precast Concrete Contractors"
+ },
+ {
+   "NAICS_Code": 238130,
+   "NAICS_Title": "Framing Contractors"
+ },
+ {
+   "NAICS_Code": 238140,
+   "NAICS_Title": "Masonry Contractors"
+ },
+ {
+   "NAICS_Code": 238150,
+   "NAICS_Title": "Glass and Glazing Contractors"
+ },
+ {
+   "NAICS_Code": 238160,
+   "NAICS_Title": "Roofing Contractors"
+ },
+ {
+   "NAICS_Code": 238170,
+   "NAICS_Title": "Siding Contractors"
+ },
+ {
+   "NAICS_Code": 238190,
+   "NAICS_Title": "Other Foundation, Structure, and Building Exterior Contractors "
+ },
+ {
+   "NAICS_Code": 238210,
+   "NAICS_Title": "Electrical Contractors and Other Wiring Installation Contractors"
+ },
+ {
+   "NAICS_Code": 238220,
+   "NAICS_Title": "Plumbing, Heating, and Air-Conditioning Contractors "
+ },
+ {
+   "NAICS_Code": 238290,
+   "NAICS_Title": "Other Building Equipment Contractors"
+ },
+ {
+   "NAICS_Code": 238310,
+   "NAICS_Title": "Drywall and Insulation Contractors"
+ },
+ {
+   "NAICS_Code": 238320,
+   "NAICS_Title": "Painting and Wall Covering Contractors"
+ },
+ {
+   "NAICS_Code": 238330,
+   "NAICS_Title": "Flooring Contractors"
+ },
+ {
+   "NAICS_Code": 238340,
+   "NAICS_Title": "Tile and Terrazzo Contractors"
+ },
+ {
+   "NAICS_Code": 238350,
+   "NAICS_Title": "Finish Carpentry Contractors"
+ },
+ {
+   "NAICS_Code": 238390,
+   "NAICS_Title": "Other Building Finishing Contractors"
+ },
+ {
+   "NAICS_Code": 238910,
+   "NAICS_Title": "Site Preparation Contractors"
+ },
+ {
+   "NAICS_Code": 238990,
+   "NAICS_Title": "All Other Specialty Trade Contractors"
+ },
+ {
+   "NAICS_Code": 311111,
+   "NAICS_Title": "Dog and Cat Food Manufacturing"
+ },
+ {
+   "NAICS_Code": 311119,
+   "NAICS_Title": "Other Animal Food Manufacturing"
+ },
+ {
+   "NAICS_Code": 311211,
+   "NAICS_Title": "Flour Milling"
+ },
+ {
+   "NAICS_Code": 311212,
+   "NAICS_Title": "Rice Milling"
+ },
+ {
+   "NAICS_Code": 311213,
+   "NAICS_Title": "Malt Manufacturing"
+ },
+ {
+   "NAICS_Code": 311221,
+   "NAICS_Title": "Wet Corn Milling"
+ },
+ {
+   "NAICS_Code": 311224,
+   "NAICS_Title": "Soybean and Other Oilseed Processing"
+ },
+ {
+   "NAICS_Code": 311225,
+   "NAICS_Title": "Fats and Oils Refining and Blending"
+ },
+ {
+   "NAICS_Code": 311230,
+   "NAICS_Title": "Breakfast Cereal Manufacturing"
+ },
+ {
+   "NAICS_Code": 311313,
+   "NAICS_Title": "Beet Sugar Manufacturing"
+ },
+ {
+   "NAICS_Code": 311314,
+   "NAICS_Title": "Cane Sugar Manufacturing"
+ },
+ {
+   "NAICS_Code": 311340,
+   "NAICS_Title": "Nonchocolate Confectionery Manufacturing"
+ },
+ {
+   "NAICS_Code": 311351,
+   "NAICS_Title": "Chocolate and Confectionery Manufacturing from Cacao Beans"
+ },
+ {
+   "NAICS_Code": 311352,
+   "NAICS_Title": "Confectionery Manufacturing from Purchased Chocolate"
+ },
+ {
+   "NAICS_Code": 311411,
+   "NAICS_Title": "Frozen Fruit, Juice, and Vegetable Manufacturing "
+ },
+ {
+   "NAICS_Code": 311412,
+   "NAICS_Title": "Frozen Specialty Food Manufacturing"
+ },
+ {
+   "NAICS_Code": 311421,
+   "NAICS_Title": "Fruit and Vegetable Canning"
+ },
+ {
+   "NAICS_Code": 311422,
+   "NAICS_Title": "Specialty Canning"
+ },
+ {
+   "NAICS_Code": 311423,
+   "NAICS_Title": "Dried and Dehydrated Food Manufacturing"
+ },
+ {
+   "NAICS_Code": 311511,
+   "NAICS_Title": "Fluid Milk Manufacturing"
+ },
+ {
+   "NAICS_Code": 311512,
+   "NAICS_Title": "Creamery Butter Manufacturing"
+ },
+ {
+   "NAICS_Code": 311513,
+   "NAICS_Title": "Cheese Manufacturing"
+ },
+ {
+   "NAICS_Code": 311514,
+   "NAICS_Title": "Dry, Condensed, and Evaporated Dairy Product Manufacturing "
+ },
+ {
+   "NAICS_Code": 311520,
+   "NAICS_Title": "Ice Cream and Frozen Dessert Manufacturing"
+ },
+ {
+   "NAICS_Code": 311611,
+   "NAICS_Title": "Animal (except Poultry) Slaughtering"
+ },
+ {
+   "NAICS_Code": 311612,
+   "NAICS_Title": "Meat Processed from Carcasses"
+ },
+ {
+   "NAICS_Code": 311613,
+   "NAICS_Title": "Rendering and Meat Byproduct Processing"
+ },
+ {
+   "NAICS_Code": 311615,
+   "NAICS_Title": "Poultry Processing"
+ },
+ {
+   "NAICS_Code": 311710,
+   "NAICS_Title": "Seafood Product Preparation and Packaging"
+ },
+ {
+   "NAICS_Code": 311811,
+   "NAICS_Title": "Retail Bakeries"
+ },
+ {
+   "NAICS_Code": 311812,
+   "NAICS_Title": "Commercial Bakeries"
+ },
+ {
+   "NAICS_Code": 311813,
+   "NAICS_Title": "Frozen Cakes, Pies, and Other Pastries Manufacturing "
+ },
+ {
+   "NAICS_Code": 311821,
+   "NAICS_Title": "Cookie and Cracker Manufacturing"
+ },
+ {
+   "NAICS_Code": 311824,
+   "NAICS_Title": "Dry Pasta, Dough, and Flour Mixes Manufacturing from Purchased Flour "
+ },
+ {
+   "NAICS_Code": 311830,
+   "NAICS_Title": "Tortilla Manufacturing"
+ },
+ {
+   "NAICS_Code": 311911,
+   "NAICS_Title": "Roasted Nuts and Peanut Butter Manufacturing"
+ },
+ {
+   "NAICS_Code": 311919,
+   "NAICS_Title": "Other Snack Food Manufacturing"
+ },
+ {
+   "NAICS_Code": 311920,
+   "NAICS_Title": "Coffee and Tea Manufacturing"
+ },
+ {
+   "NAICS_Code": 311930,
+   "NAICS_Title": "Flavoring Syrup and Concentrate Manufacturing"
+ },
+ {
+   "NAICS_Code": 311941,
+   "NAICS_Title": "Mayonnaise, Dressing, and Other Prepared Sauce Manufacturing "
+ },
+ {
+   "NAICS_Code": 311942,
+   "NAICS_Title": "Spice and Extract Manufacturing"
+ },
+ {
+   "NAICS_Code": 311991,
+   "NAICS_Title": "Perishable Prepared Food Manufacturing"
+ },
+ {
+   "NAICS_Code": 311999,
+   "NAICS_Title": "All Other Miscellaneous Food Manufacturing"
+ },
+ {
+   "NAICS_Code": 312111,
+   "NAICS_Title": "Soft Drink Manufacturing"
+ },
+ {
+   "NAICS_Code": 312112,
+   "NAICS_Title": "Bottled Water Manufacturing"
+ },
+ {
+   "NAICS_Code": 312113,
+   "NAICS_Title": "Ice Manufacturing"
+ },
+ {
+   "NAICS_Code": 312120,
+   "NAICS_Title": "Breweries"
+ },
+ {
+   "NAICS_Code": 312130,
+   "NAICS_Title": "Wineries"
+ },
+ {
+   "NAICS_Code": 312140,
+   "NAICS_Title": "Distilleries"
+ },
+ {
+   "NAICS_Code": 312230,
+   "NAICS_Title": "Tobacco Manufacturing"
+ },
+ {
+   "NAICS_Code": 313110,
+   "NAICS_Title": "Fiber, Yarn, and Thread Mills "
+ },
+ {
+   "NAICS_Code": 313210,
+   "NAICS_Title": "Broadwoven Fabric Mills"
+ },
+ {
+   "NAICS_Code": 313220,
+   "NAICS_Title": "Narrow Fabric Mills and Schiffli Machine Embroidery"
+ },
+ {
+   "NAICS_Code": 313230,
+   "NAICS_Title": "Nonwoven Fabric Mills"
+ },
+ {
+   "NAICS_Code": 313240,
+   "NAICS_Title": "Knit Fabric Mills"
+ },
+ {
+   "NAICS_Code": 313310,
+   "NAICS_Title": "Textile and Fabric Finishing Mills"
+ },
+ {
+   "NAICS_Code": 313320,
+   "NAICS_Title": "Fabric Coating Mills"
+ },
+ {
+   "NAICS_Code": 314110,
+   "NAICS_Title": "Carpet and Rug Mills"
+ },
+ {
+   "NAICS_Code": 314120,
+   "NAICS_Title": "Curtain and Linen Mills"
+ },
+ {
+   "NAICS_Code": 314910,
+   "NAICS_Title": "Textile Bag and Canvas Mills"
+ },
+ {
+   "NAICS_Code": 314994,
+   "NAICS_Title": "Rope, Cordage, Twine, Tire Cord, and Tire Fabric Mills "
+ },
+ {
+   "NAICS_Code": 314999,
+   "NAICS_Title": "All Other Miscellaneous Textile Product Mills"
+ },
+ {
+   "NAICS_Code": 315110,
+   "NAICS_Title": "Hosiery and Sock Mills"
+ },
+ {
+   "NAICS_Code": 315190,
+   "NAICS_Title": "Other Apparel Knitting Mills"
+ },
+ {
+   "NAICS_Code": 315210,
+   "NAICS_Title": "Cut and Sew Apparel Contractors"
+ },
+ {
+   "NAICS_Code": 315220,
+   "NAICS_Title": "Men’s and Boys’ Cut and Sew Apparel Manufacturing"
+ },
+ {
+   "NAICS_Code": 315240,
+   "NAICS_Title": "Women’s, Girls’, and Infants’ Cut and Sew Apparel Manufacturing "
+ },
+ {
+   "NAICS_Code": 315280,
+   "NAICS_Title": "Other Cut and Sew Apparel Manufacturing"
+ },
+ {
+   "NAICS_Code": 315990,
+   "NAICS_Title": "Apparel Accessories and Other Apparel Manufacturing"
+ },
+ {
+   "NAICS_Code": 316110,
+   "NAICS_Title": "Leather and Hide Tanning and Finishing"
+ },
+ {
+   "NAICS_Code": 316210,
+   "NAICS_Title": "Footwear Manufacturing"
+ },
+ {
+   "NAICS_Code": 316992,
+   "NAICS_Title": "Women's Handbag and Purse Manufacturing"
+ },
+ {
+   "NAICS_Code": 316998,
+   "NAICS_Title": "All Other Leather Good and Allied Product Manufacturing"
+ },
+ {
+   "NAICS_Code": 321113,
+   "NAICS_Title": "Sawmills"
+ },
+ {
+   "NAICS_Code": 321114,
+   "NAICS_Title": "Wood Preservation"
+ },
+ {
+   "NAICS_Code": 321211,
+   "NAICS_Title": "Hardwood Veneer and Plywood Manufacturing"
+ },
+ {
+   "NAICS_Code": 321212,
+   "NAICS_Title": "Softwood Veneer and Plywood Manufacturing"
+ },
+ {
+   "NAICS_Code": 321213,
+   "NAICS_Title": "Engineered Wood Member (except Truss) Manufacturing"
+ },
+ {
+   "NAICS_Code": 321214,
+   "NAICS_Title": "Truss Manufacturing"
+ },
+ {
+   "NAICS_Code": 321219,
+   "NAICS_Title": "Reconstituted Wood Product Manufacturing"
+ },
+ {
+   "NAICS_Code": 321911,
+   "NAICS_Title": "Wood Window and Door Manufacturing"
+ },
+ {
+   "NAICS_Code": 321912,
+   "NAICS_Title": "Cut Stock, Resawing Lumber, and Planing "
+ },
+ {
+   "NAICS_Code": 321918,
+   "NAICS_Title": "Other Millwork (including Flooring)"
+ },
+ {
+   "NAICS_Code": 321920,
+   "NAICS_Title": "Wood Container and Pallet Manufacturing"
+ },
+ {
+   "NAICS_Code": 321991,
+   "NAICS_Title": "Manufactured Home (Mobile Home) Manufacturing"
+ },
+ {
+   "NAICS_Code": 321992,
+   "NAICS_Title": "Prefabricated Wood Building Manufacturing"
+ },
+ {
+   "NAICS_Code": 321999,
+   "NAICS_Title": "All Other Miscellaneous Wood Product Manufacturing"
+ },
+ {
+   "NAICS_Code": 322110,
+   "NAICS_Title": "Pulp Mills"
+ },
+ {
+   "NAICS_Code": 322121,
+   "NAICS_Title": "Paper (except Newsprint) Mills"
+ },
+ {
+   "NAICS_Code": 322122,
+   "NAICS_Title": "Newsprint Mills"
+ },
+ {
+   "NAICS_Code": 322130,
+   "NAICS_Title": "Paperboard Mills"
+ },
+ {
+   "NAICS_Code": 322211,
+   "NAICS_Title": "Corrugated and Solid Fiber Box Manufacturing"
+ },
+ {
+   "NAICS_Code": 322212,
+   "NAICS_Title": "Folding Paperboard Box Manufacturing"
+ },
+ {
+   "NAICS_Code": 322219,
+   "NAICS_Title": "Other Paperboard Container Manufacturing"
+ },
+ {
+   "NAICS_Code": 322220,
+   "NAICS_Title": "Paper Bag and Coated and Treated Paper Manufacturing"
+ },
+ {
+   "NAICS_Code": 322230,
+   "NAICS_Title": "Stationery Product Manufacturing"
+ },
+ {
+   "NAICS_Code": 322291,
+   "NAICS_Title": "Sanitary Paper Product Manufacturing"
+ },
+ {
+   "NAICS_Code": 322299,
+   "NAICS_Title": "All Other Converted Paper Product Manufacturing"
+ },
+ {
+   "NAICS_Code": 323111,
+   "NAICS_Title": "Commercial Printing (except Screen and Books)"
+ },
+ {
+   "NAICS_Code": 323113,
+   "NAICS_Title": "Commercial Screen Printing"
+ },
+ {
+   "NAICS_Code": 323117,
+   "NAICS_Title": "Books Printing"
+ },
+ {
+   "NAICS_Code": 323120,
+   "NAICS_Title": "Support Activities for Printing"
+ },
+ {
+   "NAICS_Code": 324110,
+   "NAICS_Title": "Petroleum Refineries"
+ },
+ {
+   "NAICS_Code": 324121,
+   "NAICS_Title": "Asphalt Paving Mixture and Block Manufacturing"
+ },
+ {
+   "NAICS_Code": 324122,
+   "NAICS_Title": "Asphalt Shingle and Coating Materials Manufacturing"
+ },
+ {
+   "NAICS_Code": 324191,
+   "NAICS_Title": "Petroleum Lubricating Oil and Grease Manufacturing"
+ },
+ {
+   "NAICS_Code": 324199,
+   "NAICS_Title": "All Other Petroleum and Coal Products Manufacturing"
+ },
+ {
+   "NAICS_Code": 325110,
+   "NAICS_Title": "Petrochemical Manufacturing"
+ },
+ {
+   "NAICS_Code": 325120,
+   "NAICS_Title": "Industrial Gas Manufacturing"
+ },
+ {
+   "NAICS_Code": 325130,
+   "NAICS_Title": "Synthetic Dye and Pigment Manufacturing"
+ },
+ {
+   "NAICS_Code": 325180,
+   "NAICS_Title": "Other Basic Inorganic Chemical Manufacturing"
+ },
+ {
+   "NAICS_Code": 325193,
+   "NAICS_Title": "Ethyl Alcohol Manufacturing"
+ },
+ {
+   "NAICS_Code": 325194,
+   "NAICS_Title": "Cyclic Crude, Intermediate, and Gum and Wood Chemical Manufacturing "
+ },
+ {
+   "NAICS_Code": 325199,
+   "NAICS_Title": "All Other Basic Organic Chemical Manufacturing"
+ },
+ {
+   "NAICS_Code": 325211,
+   "NAICS_Title": "Plastics Material and Resin Manufacturing"
+ },
+ {
+   "NAICS_Code": 325212,
+   "NAICS_Title": "Synthetic Rubber Manufacturing"
+ },
+ {
+   "NAICS_Code": 325220,
+   "NAICS_Title": "Artificial and Synthetic Fibers and Filaments Manufacturing"
+ },
+ {
+   "NAICS_Code": 325311,
+   "NAICS_Title": "Nitrogenous Fertilizer Manufacturing"
+ },
+ {
+   "NAICS_Code": 325312,
+   "NAICS_Title": "Phosphatic Fertilizer Manufacturing"
+ },
+ {
+   "NAICS_Code": 325314,
+   "NAICS_Title": "Fertilizer (Mixing Only) Manufacturing"
+ },
+ {
+   "NAICS_Code": 325320,
+   "NAICS_Title": "Pesticide and Other Agricultural Chemical Manufacturing"
+ },
+ {
+   "NAICS_Code": 325411,
+   "NAICS_Title": "Medicinal and Botanical Manufacturing"
+ },
+ {
+   "NAICS_Code": 325412,
+   "NAICS_Title": "Pharmaceutical Preparation Manufacturing"
+ },
+ {
+   "NAICS_Code": 325413,
+   "NAICS_Title": "In-Vitro Diagnostic Substance Manufacturing"
+ },
+ {
+   "NAICS_Code": 325414,
+   "NAICS_Title": "Biological Product (except Diagnostic) Manufacturing"
+ },
+ {
+   "NAICS_Code": 325510,
+   "NAICS_Title": "Paint and Coating Manufacturing"
+ },
+ {
+   "NAICS_Code": 325520,
+   "NAICS_Title": "Adhesive Manufacturing"
+ },
+ {
+   "NAICS_Code": 325611,
+   "NAICS_Title": "Soap and Other Detergent Manufacturing"
+ },
+ {
+   "NAICS_Code": 325612,
+   "NAICS_Title": "Polish and Other Sanitation Good Manufacturing"
+ },
+ {
+   "NAICS_Code": 325613,
+   "NAICS_Title": "Surface Active Agent Manufacturing"
+ },
+ {
+   "NAICS_Code": 325620,
+   "NAICS_Title": "Toilet Preparation Manufacturing"
+ },
+ {
+   "NAICS_Code": 325910,
+   "NAICS_Title": "Printing Ink Manufacturing"
+ },
+ {
+   "NAICS_Code": 325920,
+   "NAICS_Title": "Explosives Manufacturing"
+ },
+ {
+   "NAICS_Code": 325991,
+   "NAICS_Title": "Custom Compounding of Purchased Resins"
+ },
+ {
+   "NAICS_Code": 325992,
+   "NAICS_Title": "Photographic Film, Paper, Plate, and Chemical Manufacturing "
+ },
+ {
+   "NAICS_Code": 325998,
+   "NAICS_Title": "All Other Miscellaneous Chemical Product and Preparation Manufacturing"
+ },
+ {
+   "NAICS_Code": 326111,
+   "NAICS_Title": "Plastics Bag and Pouch Manufacturing"
+ },
+ {
+   "NAICS_Code": 326112,
+   "NAICS_Title": "Plastics Packaging Film and Sheet (including Laminated) Manufacturing"
+ },
+ {
+   "NAICS_Code": 326113,
+   "NAICS_Title": "Unlaminated Plastics Film and Sheet (except Packaging) Manufacturing"
+ },
+ {
+   "NAICS_Code": 326121,
+   "NAICS_Title": "Unlaminated Plastics Profile Shape Manufacturing"
+ },
+ {
+   "NAICS_Code": 326122,
+   "NAICS_Title": "Plastics Pipe and Pipe Fitting Manufacturing"
+ },
+ {
+   "NAICS_Code": 326130,
+   "NAICS_Title": "Laminated Plastics Plate, Sheet (except Packaging), and Shape Manufacturing"
+ },
+ {
+   "NAICS_Code": 326140,
+   "NAICS_Title": "Polystyrene Foam Product Manufacturing"
+ },
+ {
+   "NAICS_Code": 326150,
+   "NAICS_Title": "Urethane and Other Foam Product (except Polystyrene) Manufacturing"
+ },
+ {
+   "NAICS_Code": 326160,
+   "NAICS_Title": "Plastics Bottle Manufacturing"
+ },
+ {
+   "NAICS_Code": 326191,
+   "NAICS_Title": "Plastics Plumbing Fixture Manufacturing"
+ },
+ {
+   "NAICS_Code": 326199,
+   "NAICS_Title": "All Other Plastics Product Manufacturing"
+ },
+ {
+   "NAICS_Code": 326211,
+   "NAICS_Title": "Tire Manufacturing (except Retreading)"
+ },
+ {
+   "NAICS_Code": 326212,
+   "NAICS_Title": "Tire Retreading"
+ },
+ {
+   "NAICS_Code": 326220,
+   "NAICS_Title": "Rubber and Plastics Hoses and Belting Manufacturing"
+ },
+ {
+   "NAICS_Code": 326291,
+   "NAICS_Title": "Rubber Product Manufacturing for Mechanical Use"
+ },
+ {
+   "NAICS_Code": 326299,
+   "NAICS_Title": "All Other Rubber Product Manufacturing"
+ },
+ {
+   "NAICS_Code": 327110,
+   "NAICS_Title": "Pottery, Ceramics, and Plumbing Fixture Manufacturing "
+ },
+ {
+   "NAICS_Code": 327120,
+   "NAICS_Title": "Clay Building Material and Refractories Manufacturing"
+ },
+ {
+   "NAICS_Code": 327211,
+   "NAICS_Title": "Flat Glass Manufacturing"
+ },
+ {
+   "NAICS_Code": 327212,
+   "NAICS_Title": "Other Pressed and Blown Glass and Glassware Manufacturing"
+ },
+ {
+   "NAICS_Code": 327213,
+   "NAICS_Title": "Glass Container Manufacturing"
+ },
+ {
+   "NAICS_Code": 327215,
+   "NAICS_Title": "Glass Product Manufacturing Made of Purchased Glass"
+ },
+ {
+   "NAICS_Code": 327310,
+   "NAICS_Title": "Cement Manufacturing"
+ },
+ {
+   "NAICS_Code": 327320,
+   "NAICS_Title": "Ready-Mix Concrete Manufacturing"
+ },
+ {
+   "NAICS_Code": 327331,
+   "NAICS_Title": "Concrete Block and Brick Manufacturing"
+ },
+ {
+   "NAICS_Code": 327332,
+   "NAICS_Title": "Concrete Pipe Manufacturing"
+ },
+ {
+   "NAICS_Code": 327390,
+   "NAICS_Title": "Other Concrete Product Manufacturing"
+ },
+ {
+   "NAICS_Code": 327410,
+   "NAICS_Title": "Lime Manufacturing"
+ },
+ {
+   "NAICS_Code": 327420,
+   "NAICS_Title": "Gypsum Product Manufacturing"
+ },
+ {
+   "NAICS_Code": 327910,
+   "NAICS_Title": "Abrasive Product Manufacturing"
+ },
+ {
+   "NAICS_Code": 327991,
+   "NAICS_Title": "Cut Stone and Stone Product Manufacturing"
+ },
+ {
+   "NAICS_Code": 327992,
+   "NAICS_Title": "Ground or Treated Mineral and Earth Manufacturing"
+ },
+ {
+   "NAICS_Code": 327993,
+   "NAICS_Title": "Mineral Wool Manufacturing"
+ },
+ {
+   "NAICS_Code": 327999,
+   "NAICS_Title": "All Other Miscellaneous Nonmetallic Mineral Product Manufacturing"
+ },
+ {
+   "NAICS_Code": 331110,
+   "NAICS_Title": "Iron and Steel Mills and Ferroalloy Manufacturing"
+ },
+ {
+   "NAICS_Code": 331210,
+   "NAICS_Title": "Iron and Steel Pipe and Tube Manufacturing from Purchased Steel"
+ },
+ {
+   "NAICS_Code": 331221,
+   "NAICS_Title": "Rolled Steel Shape Manufacturing"
+ },
+ {
+   "NAICS_Code": 331222,
+   "NAICS_Title": "Steel Wire Drawing"
+ },
+ {
+   "NAICS_Code": 331313,
+   "NAICS_Title": "Alumina Refining and Primary Aluminum Production"
+ },
+ {
+   "NAICS_Code": 331314,
+   "NAICS_Title": "Secondary Smelting and Alloying of Aluminum"
+ },
+ {
+   "NAICS_Code": 331315,
+   "NAICS_Title": "Aluminum Sheet, Plate, and Foil Manufacturing "
+ },
+ {
+   "NAICS_Code": 331318,
+   "NAICS_Title": "Other Aluminum Rolling, Drawing, and Extruding "
+ },
+ {
+   "NAICS_Code": 331410,
+   "NAICS_Title": "Nonferrous Metal (except Aluminum) Smelting and Refining"
+ },
+ {
+   "NAICS_Code": 331420,
+   "NAICS_Title": "Copper Rolling, Drawing, Extruding, and Alloying"
+ },
+ {
+   "NAICS_Code": 331491,
+   "NAICS_Title": "Nonferrous Metal (except Copper and Aluminum) Rolling, Drawing, and Extruding "
+ },
+ {
+   "NAICS_Code": 331492,
+   "NAICS_Title": "Secondary Smelting, Refining, and Alloying of Nonferrous Metal (except Copper and Aluminum) "
+ },
+ {
+   "NAICS_Code": 331511,
+   "NAICS_Title": "Iron Foundries"
+ },
+ {
+   "NAICS_Code": 331512,
+   "NAICS_Title": "Steel Investment Foundries"
+ },
+ {
+   "NAICS_Code": 331513,
+   "NAICS_Title": "Steel Foundries (except Investment)"
+ },
+ {
+   "NAICS_Code": 331523,
+   "NAICS_Title": "Nonferrous Metal Die-Casting Foundries"
+ },
+ {
+   "NAICS_Code": 331524,
+   "NAICS_Title": "Aluminum Foundries (except Die-Casting)"
+ },
+ {
+   "NAICS_Code": 331529,
+   "NAICS_Title": "Other Nonferrous Metal Foundries (except Die-Casting)"
+ },
+ {
+   "NAICS_Code": 332111,
+   "NAICS_Title": "Iron and Steel Forging"
+ },
+ {
+   "NAICS_Code": 332112,
+   "NAICS_Title": "Nonferrous Forging"
+ },
+ {
+   "NAICS_Code": 332114,
+   "NAICS_Title": "Custom Roll Forming"
+ },
+ {
+   "NAICS_Code": 332117,
+   "NAICS_Title": "Powder Metallurgy Part Manufacturing"
+ },
+ {
+   "NAICS_Code": 332119,
+   "NAICS_Title": "Metal Crown, Closure, and Other Metal Stamping (except Automotive) "
+ },
+ {
+   "NAICS_Code": 332215,
+   "NAICS_Title": "Metal Kitchen Cookware, Utensil, Cutlery, and Flatware (except Precious) Manufacturing "
+ },
+ {
+   "NAICS_Code": 332216,
+   "NAICS_Title": "Saw Blade and Handtool Manufacturing"
+ },
+ {
+   "NAICS_Code": 332311,
+   "NAICS_Title": "Prefabricated Metal Building and Component Manufacturing"
+ },
+ {
+   "NAICS_Code": 332312,
+   "NAICS_Title": "Fabricated Structural Metal Manufacturing"
+ },
+ {
+   "NAICS_Code": 332313,
+   "NAICS_Title": "Plate Work Manufacturing"
+ },
+ {
+   "NAICS_Code": 332321,
+   "NAICS_Title": "Metal Window and Door Manufacturing"
+ },
+ {
+   "NAICS_Code": 332322,
+   "NAICS_Title": "Sheet Metal Work Manufacturing"
+ },
+ {
+   "NAICS_Code": 332323,
+   "NAICS_Title": "Ornamental and Architectural Metal Work Manufacturing"
+ },
+ {
+   "NAICS_Code": 332410,
+   "NAICS_Title": "Power Boiler and Heat Exchanger Manufacturing"
+ },
+ {
+   "NAICS_Code": 332420,
+   "NAICS_Title": "Metal Tank (Heavy Gauge) Manufacturing"
+ },
+ {
+   "NAICS_Code": 332431,
+   "NAICS_Title": "Metal Can Manufacturing"
+ },
+ {
+   "NAICS_Code": 332439,
+   "NAICS_Title": "Other Metal Container Manufacturing"
+ },
+ {
+   "NAICS_Code": 332510,
+   "NAICS_Title": "Hardware Manufacturing"
+ },
+ {
+   "NAICS_Code": 332613,
+   "NAICS_Title": "Spring Manufacturing"
+ },
+ {
+   "NAICS_Code": 332618,
+   "NAICS_Title": "Other Fabricated Wire Product Manufacturing"
+ },
+ {
+   "NAICS_Code": 332710,
+   "NAICS_Title": "Machine Shops"
+ },
+ {
+   "NAICS_Code": 332721,
+   "NAICS_Title": "Precision Turned Product Manufacturing"
+ },
+ {
+   "NAICS_Code": 332722,
+   "NAICS_Title": "Bolt, Nut, Screw, Rivet, and Washer Manufacturing "
+ },
+ {
+   "NAICS_Code": 332811,
+   "NAICS_Title": "Metal Heat Treating"
+ },
+ {
+   "NAICS_Code": 332812,
+   "NAICS_Title": "Metal Coating, Engraving (except Jewelry and Silverware), and Allied Services to Manufacturers "
+ },
+ {
+   "NAICS_Code": 332813,
+   "NAICS_Title": "Electroplating, Plating, Polishing, Anodizing, and Coloring "
+ },
+ {
+   "NAICS_Code": 332911,
+   "NAICS_Title": "Industrial Valve Manufacturing"
+ },
+ {
+   "NAICS_Code": 332912,
+   "NAICS_Title": "Fluid Power Valve and Hose Fitting Manufacturing"
+ },
+ {
+   "NAICS_Code": 332913,
+   "NAICS_Title": "Plumbing Fixture Fitting and Trim Manufacturing"
+ },
+ {
+   "NAICS_Code": 332919,
+   "NAICS_Title": "Other Metal Valve and Pipe Fitting Manufacturing"
+ },
+ {
+   "NAICS_Code": 332991,
+   "NAICS_Title": "Ball and Roller Bearing Manufacturing"
+ },
+ {
+   "NAICS_Code": 332992,
+   "NAICS_Title": "Small Arms Ammunition Manufacturing"
+ },
+ {
+   "NAICS_Code": 332993,
+   "NAICS_Title": "Ammunition (except Small Arms) Manufacturing"
+ },
+ {
+   "NAICS_Code": 332994,
+   "NAICS_Title": "Small Arms, Ordnance, and Ordnance Accessories Manufacturing "
+ },
+ {
+   "NAICS_Code": 332996,
+   "NAICS_Title": "Fabricated Pipe and Pipe Fitting Manufacturing"
+ },
+ {
+   "NAICS_Code": 332999,
+   "NAICS_Title": "All Other Miscellaneous Fabricated Metal Product Manufacturing"
+ },
+ {
+   "NAICS_Code": 333111,
+   "NAICS_Title": "Farm Machinery and Equipment Manufacturing"
+ },
+ {
+   "NAICS_Code": 333112,
+   "NAICS_Title": "Lawn and Garden Tractor and Home Lawn and Garden Equipment Manufacturing"
+ },
+ {
+   "NAICS_Code": 333120,
+   "NAICS_Title": "Construction Machinery Manufacturing"
+ },
+ {
+   "NAICS_Code": 333131,
+   "NAICS_Title": "Mining Machinery and Equipment Manufacturing"
+ },
+ {
+   "NAICS_Code": 333132,
+   "NAICS_Title": "Oil and Gas Field Machinery and Equipment Manufacturing"
+ },
+ {
+   "NAICS_Code": 333241,
+   "NAICS_Title": "Food Product Machinery Manufacturing"
+ },
+ {
+   "NAICS_Code": 333242,
+   "NAICS_Title": "Semiconductor Machinery Manufacturing"
+ },
+ {
+   "NAICS_Code": 333243,
+   "NAICS_Title": "Sawmill, Woodworking, and Paper Machinery Manufacturing "
+ },
+ {
+   "NAICS_Code": 333244,
+   "NAICS_Title": "Printing Machinery and Equipment Manufacturing"
+ },
+ {
+   "NAICS_Code": 333249,
+   "NAICS_Title": "Other Industrial Machinery Manufacturing"
+ },
+ {
+   "NAICS_Code": 333314,
+   "NAICS_Title": "Optical Instrument and Lens Manufacturing"
+ },
+ {
+   "NAICS_Code": 333316,
+   "NAICS_Title": "Photographic and Photocopying Equipment Manufacturing"
+ },
+ {
+   "NAICS_Code": 333318,
+   "NAICS_Title": "Other Commercial and Service Industry Machinery Manufacturing"
+ },
+ {
+   "NAICS_Code": 333413,
+   "NAICS_Title": "Industrial and Commercial Fan and Blower and Air Purification Equipment Manufacturing"
+ },
+ {
+   "NAICS_Code": 333414,
+   "NAICS_Title": "Heating Equipment (except Warm Air Furnaces) Manufacturing"
+ },
+ {
+   "NAICS_Code": 333415,
+   "NAICS_Title": "Air-Conditioning and Warm Air Heating Equipment and Commercial and Industrial Refrigeration Equipment Manufacturing"
+ },
+ {
+   "NAICS_Code": 333511,
+   "NAICS_Title": "Industrial Mold Manufacturing"
+ },
+ {
+   "NAICS_Code": 333514,
+   "NAICS_Title": "Special Die and Tool, Die Set, Jig, and Fixture Manufacturing "
+ },
+ {
+   "NAICS_Code": 333515,
+   "NAICS_Title": "Cutting Tool and Machine Tool Accessory Manufacturing"
+ },
+ {
+   "NAICS_Code": 333517,
+   "NAICS_Title": "Machine Tool Manufacturing"
+ },
+ {
+   "NAICS_Code": 333519,
+   "NAICS_Title": "Rolling Mill and Other Metalworking Machinery Manufacturing"
+ },
+ {
+   "NAICS_Code": 333611,
+   "NAICS_Title": "Turbine and Turbine Generator Set Units Manufacturing"
+ },
+ {
+   "NAICS_Code": 333612,
+   "NAICS_Title": "Speed Changer, Industrial High-Speed Drive, and Gear Manufacturing "
+ },
+ {
+   "NAICS_Code": 333613,
+   "NAICS_Title": "Mechanical Power Transmission Equipment Manufacturing"
+ },
+ {
+   "NAICS_Code": 333618,
+   "NAICS_Title": "Other Engine Equipment Manufacturing"
+ },
+ {
+   "NAICS_Code": 333912,
+   "NAICS_Title": "Air and Gas Compressor Manufacturing"
+ },
+ {
+   "NAICS_Code": 333914,
+   "NAICS_Title": "Measuring, Dispensing, and Other Pumping Equipment Manufacturing "
+ },
+ {
+   "NAICS_Code": 333921,
+   "NAICS_Title": "Elevator and Moving Stairway Manufacturing"
+ },
+ {
+   "NAICS_Code": 333922,
+   "NAICS_Title": "Conveyor and Conveying Equipment Manufacturing"
+ },
+ {
+   "NAICS_Code": 333923,
+   "NAICS_Title": "Overhead Traveling Crane, Hoist, and Monorail System Manufacturing "
+ },
+ {
+   "NAICS_Code": 333924,
+   "NAICS_Title": "Industrial Truck, Tractor, Trailer, and Stacker Machinery Manufacturing "
+ },
+ {
+   "NAICS_Code": 333991,
+   "NAICS_Title": "Power-Driven Handtool Manufacturing"
+ },
+ {
+   "NAICS_Code": 333992,
+   "NAICS_Title": "Welding and Soldering Equipment Manufacturing"
+ },
+ {
+   "NAICS_Code": 333993,
+   "NAICS_Title": "Packaging Machinery Manufacturing"
+ },
+ {
+   "NAICS_Code": 333994,
+   "NAICS_Title": "Industrial Process Furnace and Oven Manufacturing"
+ },
+ {
+   "NAICS_Code": 333995,
+   "NAICS_Title": "Fluid Power Cylinder and Actuator Manufacturing"
+ },
+ {
+   "NAICS_Code": 333996,
+   "NAICS_Title": "Fluid Power Pump and Motor Manufacturing"
+ },
+ {
+   "NAICS_Code": 333997,
+   "NAICS_Title": "Scale and Balance Manufacturing"
+ },
+ {
+   "NAICS_Code": 333999,
+   "NAICS_Title": "All Other Miscellaneous General Purpose Machinery Manufacturing"
+ },
+ {
+   "NAICS_Code": 334111,
+   "NAICS_Title": "Electronic Computer Manufacturing"
+ },
+ {
+   "NAICS_Code": 334112,
+   "NAICS_Title": "Computer Storage Device Manufacturing"
+ },
+ {
+   "NAICS_Code": 334118,
+   "NAICS_Title": "Computer Terminal and Other Computer Peripheral Equipment Manufacturing"
+ },
+ {
+   "NAICS_Code": 334210,
+   "NAICS_Title": "Telephone Apparatus Manufacturing"
+ },
+ {
+   "NAICS_Code": 334220,
+   "NAICS_Title": "Radio and Television Broadcasting and Wireless Communications Equipment Manufacturing"
+ },
+ {
+   "NAICS_Code": 334290,
+   "NAICS_Title": "Other Communications Equipment Manufacturing"
+ },
+ {
+   "NAICS_Code": 334310,
+   "NAICS_Title": "Audio and Video Equipment Manufacturing"
+ },
+ {
+   "NAICS_Code": 334412,
+   "NAICS_Title": "Bare Printed Circuit Board Manufacturing "
+ },
+ {
+   "NAICS_Code": 334413,
+   "NAICS_Title": "Semiconductor and Related Device Manufacturing"
+ },
+ {
+   "NAICS_Code": 334416,
+   "NAICS_Title": "Capacitor, Resistor, Coil, Transformer, and Other Inductor Manufacturing "
+ },
+ {
+   "NAICS_Code": 334417,
+   "NAICS_Title": "Electronic Connector Manufacturing"
+ },
+ {
+   "NAICS_Code": 334418,
+   "NAICS_Title": "Printed Circuit Assembly (Electronic Assembly) Manufacturing"
+ },
+ {
+   "NAICS_Code": 334419,
+   "NAICS_Title": "Other Electronic Component Manufacturing"
+ },
+ {
+   "NAICS_Code": 334510,
+   "NAICS_Title": "Electromedical and Electrotherapeutic Apparatus Manufacturing"
+ },
+ {
+   "NAICS_Code": 334511,
+   "NAICS_Title": "Search, Detection, Navigation, Guidance, Aeronautical, and Nautical System and Instrument Manufacturing "
+ },
+ {
+   "NAICS_Code": 334512,
+   "NAICS_Title": "Automatic Environmental Control Manufacturing for Residential, Commercial, and Appliance Use "
+ },
+ {
+   "NAICS_Code": 334513,
+   "NAICS_Title": "Instruments and Related Products Manufacturing for Measuring, Displaying, and Controlling Industrial Process Variables "
+ },
+ {
+   "NAICS_Code": 334514,
+   "NAICS_Title": "Totalizing Fluid Meter and Counting Device Manufacturing"
+ },
+ {
+   "NAICS_Code": 334515,
+   "NAICS_Title": "Instrument Manufacturing for Measuring and Testing Electricity and Electrical Signals"
+ },
+ {
+   "NAICS_Code": 334516,
+   "NAICS_Title": "Analytical Laboratory Instrument Manufacturing"
+ },
+ {
+   "NAICS_Code": 334517,
+   "NAICS_Title": "Irradiation Apparatus Manufacturing"
+ },
+ {
+   "NAICS_Code": 334519,
+   "NAICS_Title": "Other Measuring and Controlling Device Manufacturing"
+ },
+ {
+   "NAICS_Code": 334613,
+   "NAICS_Title": "Blank Magnetic and Optical Recording Media Manufacturing"
+ },
+ {
+   "NAICS_Code": 334614,
+   "NAICS_Title": "Software and Other Prerecorded Compact Disc, Tape, and Record Reproducing "
+ },
+ {
+   "NAICS_Code": 335110,
+   "NAICS_Title": "Electric Lamp Bulb and Part Manufacturing"
+ },
+ {
+   "NAICS_Code": 335121,
+   "NAICS_Title": "Residential Electric Lighting Fixture Manufacturing"
+ },
+ {
+   "NAICS_Code": 335122,
+   "NAICS_Title": "Commercial, Industrial, and Institutional Electric Lighting Fixture Manufacturing "
+ },
+ {
+   "NAICS_Code": 335129,
+   "NAICS_Title": "Other Lighting Equipment Manufacturing"
+ },
+ {
+   "NAICS_Code": 335210,
+   "NAICS_Title": "Small Electrical Appliance Manufacturing"
+ },
+ {
+   "NAICS_Code": 335220,
+   "NAICS_Title": "Major Household Appliance Manufacturing"
+ },
+ {
+   "NAICS_Code": 335311,
+   "NAICS_Title": "Power, Distribution, and Specialty Transformer Manufacturing "
+ },
+ {
+   "NAICS_Code": 335312,
+   "NAICS_Title": "Motor and Generator Manufacturing"
+ },
+ {
+   "NAICS_Code": 335313,
+   "NAICS_Title": "Switchgear and Switchboard Apparatus Manufacturing"
+ },
+ {
+   "NAICS_Code": 335314,
+   "NAICS_Title": "Relay and Industrial Control Manufacturing"
+ },
+ {
+   "NAICS_Code": 335911,
+   "NAICS_Title": "Storage Battery Manufacturing"
+ },
+ {
+   "NAICS_Code": 335912,
+   "NAICS_Title": "Primary Battery Manufacturing"
+ },
+ {
+   "NAICS_Code": 335921,
+   "NAICS_Title": "Fiber Optic Cable Manufacturing"
+ },
+ {
+   "NAICS_Code": 335929,
+   "NAICS_Title": "Other Communication and Energy Wire Manufacturing"
+ },
+ {
+   "NAICS_Code": 335931,
+   "NAICS_Title": "Current-Carrying Wiring Device Manufacturing"
+ },
+ {
+   "NAICS_Code": 335932,
+   "NAICS_Title": "Noncurrent-Carrying Wiring Device Manufacturing"
+ },
+ {
+   "NAICS_Code": 335991,
+   "NAICS_Title": "Carbon and Graphite Product Manufacturing"
+ },
+ {
+   "NAICS_Code": 335999,
+   "NAICS_Title": "All Other Miscellaneous Electrical Equipment and Component Manufacturing"
+ },
+ {
+   "NAICS_Code": 336111,
+   "NAICS_Title": "Automobile Manufacturing"
+ },
+ {
+   "NAICS_Code": 336112,
+   "NAICS_Title": "Light Truck and Utility Vehicle Manufacturing"
+ },
+ {
+   "NAICS_Code": 336120,
+   "NAICS_Title": "Heavy Duty Truck Manufacturing"
+ },
+ {
+   "NAICS_Code": 336211,
+   "NAICS_Title": "Motor Vehicle Body Manufacturing"
+ },
+ {
+   "NAICS_Code": 336212,
+   "NAICS_Title": "Truck Trailer Manufacturing"
+ },
+ {
+   "NAICS_Code": 336213,
+   "NAICS_Title": "Motor Home Manufacturing"
+ },
+ {
+   "NAICS_Code": 336214,
+   "NAICS_Title": "Travel Trailer and Camper Manufacturing"
+ },
+ {
+   "NAICS_Code": 336310,
+   "NAICS_Title": "Motor Vehicle Gasoline Engine and Engine Parts Manufacturing"
+ },
+ {
+   "NAICS_Code": 336320,
+   "NAICS_Title": "Motor Vehicle Electrical and Electronic Equipment Manufacturing"
+ },
+ {
+   "NAICS_Code": 336330,
+   "NAICS_Title": "Motor Vehicle Steering and Suspension Components (except Spring) Manufacturing"
+ },
+ {
+   "NAICS_Code": 336340,
+   "NAICS_Title": "Motor Vehicle Brake System Manufacturing"
+ },
+ {
+   "NAICS_Code": 336350,
+   "NAICS_Title": "Motor Vehicle Transmission and Power Train Parts Manufacturing"
+ },
+ {
+   "NAICS_Code": 336360,
+   "NAICS_Title": "Motor Vehicle Seating and Interior Trim Manufacturing"
+ },
+ {
+   "NAICS_Code": 336370,
+   "NAICS_Title": "Motor Vehicle Metal Stamping"
+ },
+ {
+   "NAICS_Code": 336390,
+   "NAICS_Title": "Other Motor Vehicle Parts Manufacturing"
+ },
+ {
+   "NAICS_Code": 336411,
+   "NAICS_Title": "Aircraft Manufacturing"
+ },
+ {
+   "NAICS_Code": 336412,
+   "NAICS_Title": "Aircraft Engine and Engine Parts Manufacturing"
+ },
+ {
+   "NAICS_Code": 336413,
+   "NAICS_Title": "Other Aircraft Parts and Auxiliary Equipment Manufacturing"
+ },
+ {
+   "NAICS_Code": 336414,
+   "NAICS_Title": "Guided Missile and Space Vehicle Manufacturing"
+ },
+ {
+   "NAICS_Code": 336415,
+   "NAICS_Title": "Guided Missile and Space Vehicle Propulsion Unit and Propulsion Unit Parts Manufacturing"
+ },
+ {
+   "NAICS_Code": 336419,
+   "NAICS_Title": "Other Guided Missile and Space Vehicle Parts and Auxiliary Equipment Manufacturing"
+ },
+ {
+   "NAICS_Code": 336510,
+   "NAICS_Title": "Railroad Rolling Stock Manufacturing"
+ },
+ {
+   "NAICS_Code": 336611,
+   "NAICS_Title": "Ship Building and Repairing"
+ },
+ {
+   "NAICS_Code": 336612,
+   "NAICS_Title": "Boat Building"
+ },
+ {
+   "NAICS_Code": 336991,
+   "NAICS_Title": "Motorcycle, Bicycle, and Parts Manufacturing "
+ },
+ {
+   "NAICS_Code": 336992,
+   "NAICS_Title": "Military Armored Vehicle, Tank, and Tank Component Manufacturing "
+ },
+ {
+   "NAICS_Code": 336999,
+   "NAICS_Title": "All Other Transportation Equipment Manufacturing"
+ },
+ {
+   "NAICS_Code": 337110,
+   "NAICS_Title": "Wood Kitchen Cabinet and Countertop Manufacturing"
+ },
+ {
+   "NAICS_Code": 337121,
+   "NAICS_Title": "Upholstered Household Furniture Manufacturing"
+ },
+ {
+   "NAICS_Code": 337122,
+   "NAICS_Title": "Nonupholstered Wood Household Furniture Manufacturing"
+ },
+ {
+   "NAICS_Code": 337124,
+   "NAICS_Title": "Metal Household Furniture Manufacturing"
+ },
+ {
+   "NAICS_Code": 337125,
+   "NAICS_Title": "Household Furniture (except Wood and Metal) Manufacturing"
+ },
+ {
+   "NAICS_Code": 337127,
+   "NAICS_Title": "Institutional Furniture Manufacturing"
+ },
+ {
+   "NAICS_Code": 337211,
+   "NAICS_Title": "Wood Office Furniture Manufacturing"
+ },
+ {
+   "NAICS_Code": 337212,
+   "NAICS_Title": "Custom Architectural Woodwork and Millwork Manufacturing"
+ },
+ {
+   "NAICS_Code": 337214,
+   "NAICS_Title": "Office Furniture (except Wood) Manufacturing"
+ },
+ {
+   "NAICS_Code": 337215,
+   "NAICS_Title": "Showcase, Partition, Shelving, and Locker Manufacturing "
+ },
+ {
+   "NAICS_Code": 337910,
+   "NAICS_Title": "Mattress Manufacturing"
+ },
+ {
+   "NAICS_Code": 337920,
+   "NAICS_Title": "Blind and Shade Manufacturing"
+ },
+ {
+   "NAICS_Code": 339112,
+   "NAICS_Title": "Surgical and Medical Instrument Manufacturing"
+ },
+ {
+   "NAICS_Code": 339113,
+   "NAICS_Title": "Surgical Appliance and Supplies Manufacturing"
+ },
+ {
+   "NAICS_Code": 339114,
+   "NAICS_Title": "Dental Equipment and Supplies Manufacturing"
+ },
+ {
+   "NAICS_Code": 339115,
+   "NAICS_Title": "Ophthalmic Goods Manufacturing"
+ },
+ {
+   "NAICS_Code": 339116,
+   "NAICS_Title": "Dental Laboratories"
+ },
+ {
+   "NAICS_Code": 339910,
+   "NAICS_Title": "Jewelry and Silverware Manufacturing"
+ },
+ {
+   "NAICS_Code": 339920,
+   "NAICS_Title": "Sporting and Athletic Goods Manufacturing"
+ },
+ {
+   "NAICS_Code": 339930,
+   "NAICS_Title": "Doll, Toy, and Game Manufacturing"
+ },
+ {
+   "NAICS_Code": 339940,
+   "NAICS_Title": "Office Supplies (except Paper) Manufacturing"
+ },
+ {
+   "NAICS_Code": 339950,
+   "NAICS_Title": "Sign Manufacturing"
+ },
+ {
+   "NAICS_Code": 339991,
+   "NAICS_Title": "Gasket, Packing, and Sealing Device Manufacturing "
+ },
+ {
+   "NAICS_Code": 339992,
+   "NAICS_Title": "Musical Instrument Manufacturing"
+ },
+ {
+   "NAICS_Code": 339993,
+   "NAICS_Title": "Fastener, Button, Needle, and Pin Manufacturing "
+ },
+ {
+   "NAICS_Code": 339994,
+   "NAICS_Title": "Broom, Brush, and Mop Manufacturing "
+ },
+ {
+   "NAICS_Code": 339995,
+   "NAICS_Title": "Burial Casket Manufacturing"
+ },
+ {
+   "NAICS_Code": 339999,
+   "NAICS_Title": "All Other Miscellaneous Manufacturing"
+ },
+ {
+   "NAICS_Code": 423110,
+   "NAICS_Title": "Automobile and Other Motor Vehicle Merchant Wholesalers"
+ },
+ {
+   "NAICS_Code": 423120,
+   "NAICS_Title": "Motor Vehicle Supplies and New Parts Merchant Wholesalers"
+ },
+ {
+   "NAICS_Code": 423130,
+   "NAICS_Title": "Tire and Tube Merchant Wholesalers"
+ },
+ {
+   "NAICS_Code": 423140,
+   "NAICS_Title": "Motor Vehicle Parts (Used) Merchant Wholesalers"
+ },
+ {
+   "NAICS_Code": 423210,
+   "NAICS_Title": "Furniture Merchant Wholesalers"
+ },
+ {
+   "NAICS_Code": 423220,
+   "NAICS_Title": "Home Furnishing Merchant Wholesalers"
+ },
+ {
+   "NAICS_Code": 423310,
+   "NAICS_Title": "Lumber, Plywood, Millwork, and Wood Panel Merchant Wholesalers "
+ },
+ {
+   "NAICS_Code": 423320,
+   "NAICS_Title": "Brick, Stone, and Related Construction Material Merchant Wholesalers "
+ },
+ {
+   "NAICS_Code": 423330,
+   "NAICS_Title": "Roofing, Siding, and Insulation Material Merchant Wholesalers "
+ },
+ {
+   "NAICS_Code": 423390,
+   "NAICS_Title": "Other Construction Material Merchant Wholesalers"
+ },
+ {
+   "NAICS_Code": 423410,
+   "NAICS_Title": "Photographic Equipment and Supplies Merchant Wholesalers"
+ },
+ {
+   "NAICS_Code": 423420,
+   "NAICS_Title": "Office Equipment Merchant Wholesalers"
+ },
+ {
+   "NAICS_Code": 423430,
+   "NAICS_Title": "Computer and Computer Peripheral Equipment and Software Merchant Wholesalers"
+ },
+ {
+   "NAICS_Code": 423440,
+   "NAICS_Title": "Other Commercial Equipment Merchant Wholesalers"
+ },
+ {
+   "NAICS_Code": 423450,
+   "NAICS_Title": "Medical, Dental, and Hospital Equipment and Supplies Merchant Wholesalers "
+ },
+ {
+   "NAICS_Code": 423460,
+   "NAICS_Title": "Ophthalmic Goods Merchant Wholesalers"
+ },
+ {
+   "NAICS_Code": 423490,
+   "NAICS_Title": "Other Professional Equipment and Supplies Merchant Wholesalers"
+ },
+ {
+   "NAICS_Code": 423510,
+   "NAICS_Title": "Metal Service Centers and Other Metal Merchant Wholesalers"
+ },
+ {
+   "NAICS_Code": 423520,
+   "NAICS_Title": "Coal and Other Mineral and Ore Merchant Wholesalers"
+ },
+ {
+   "NAICS_Code": 423610,
+   "NAICS_Title": "Electrical Apparatus and Equipment, Wiring Supplies, and Related Equipment Merchant Wholesalers "
+ },
+ {
+   "NAICS_Code": 423620,
+   "NAICS_Title": "Household Appliances, Electric Housewares, and Consumer Electronics Merchant Wholesalers "
+ },
+ {
+   "NAICS_Code": 423690,
+   "NAICS_Title": "Other Electronic Parts and Equipment Merchant Wholesalers"
+ },
+ {
+   "NAICS_Code": 423710,
+   "NAICS_Title": "Hardware Merchant Wholesalers"
+ },
+ {
+   "NAICS_Code": 423720,
+   "NAICS_Title": "Plumbing and Heating Equipment and Supplies (Hydronics) Merchant Wholesalers"
+ },
+ {
+   "NAICS_Code": 423730,
+   "NAICS_Title": "Warm Air Heating and Air-Conditioning Equipment and Supplies Merchant Wholesalers"
+ },
+ {
+   "NAICS_Code": 423740,
+   "NAICS_Title": "Refrigeration Equipment and Supplies Merchant Wholesalers"
+ },
+ {
+   "NAICS_Code": 423810,
+   "NAICS_Title": "Construction and Mining (except Oil Well) Machinery and Equipment Merchant Wholesalers"
+ },
+ {
+   "NAICS_Code": 423820,
+   "NAICS_Title": "Farm and Garden Machinery and Equipment Merchant Wholesalers"
+ },
+ {
+   "NAICS_Code": 423830,
+   "NAICS_Title": "Industrial Machinery and Equipment Merchant Wholesalers"
+ },
+ {
+   "NAICS_Code": 423840,
+   "NAICS_Title": "Industrial Supplies Merchant Wholesalers"
+ },
+ {
+   "NAICS_Code": 423850,
+   "NAICS_Title": "Service Establishment Equipment and Supplies Merchant Wholesalers"
+ },
+ {
+   "NAICS_Code": 423860,
+   "NAICS_Title": "Transportation Equipment and Supplies (except Motor Vehicle) Merchant Wholesalers"
+ },
+ {
+   "NAICS_Code": 423910,
+   "NAICS_Title": "Sporting and Recreational Goods and Supplies Merchant Wholesalers"
+ },
+ {
+   "NAICS_Code": 423920,
+   "NAICS_Title": "Toy and Hobby Goods and Supplies Merchant Wholesalers"
+ },
+ {
+   "NAICS_Code": 423930,
+   "NAICS_Title": "Recyclable Material Merchant Wholesalers"
+ },
+ {
+   "NAICS_Code": 423940,
+   "NAICS_Title": "Jewelry, Watch, Precious Stone, and Precious Metal Merchant Wholesalers "
+ },
+ {
+   "NAICS_Code": 423990,
+   "NAICS_Title": "Other Miscellaneous Durable Goods Merchant Wholesalers"
+ },
+ {
+   "NAICS_Code": 424110,
+   "NAICS_Title": "Printing and Writing Paper Merchant Wholesalers"
+ },
+ {
+   "NAICS_Code": 424120,
+   "NAICS_Title": "Stationery and Office Supplies Merchant Wholesalers"
+ },
+ {
+   "NAICS_Code": 424130,
+   "NAICS_Title": "Industrial and Personal Service Paper Merchant Wholesalers"
+ },
+ {
+   "NAICS_Code": 424210,
+   "NAICS_Title": "Drugs and Druggists' Sundries Merchant Wholesalers"
+ },
+ {
+   "NAICS_Code": 424310,
+   "NAICS_Title": "Piece Goods, Notions, and Other Dry Goods Merchant Wholesalers "
+ },
+ {
+   "NAICS_Code": 424320,
+   "NAICS_Title": "Men's and Boys' Clothing and Furnishings Merchant Wholesalers"
+ },
+ {
+   "NAICS_Code": 424330,
+   "NAICS_Title": "Women's, Children's, and Infants' Clothing and Accessories Merchant Wholesalers "
+ },
+ {
+   "NAICS_Code": 424340,
+   "NAICS_Title": "Footwear Merchant Wholesalers"
+ },
+ {
+   "NAICS_Code": 424410,
+   "NAICS_Title": "General Line Grocery Merchant Wholesalers"
+ },
+ {
+   "NAICS_Code": 424420,
+   "NAICS_Title": "Packaged Frozen Food Merchant Wholesalers"
+ },
+ {
+   "NAICS_Code": 424430,
+   "NAICS_Title": "Dairy Product (except Dried or Canned) Merchant Wholesalers"
+ },
+ {
+   "NAICS_Code": 424440,
+   "NAICS_Title": "Poultry and Poultry Product Merchant Wholesalers"
+ },
+ {
+   "NAICS_Code": 424450,
+   "NAICS_Title": "Confectionery Merchant Wholesalers"
+ },
+ {
+   "NAICS_Code": 424460,
+   "NAICS_Title": "Fish and Seafood Merchant Wholesalers"
+ },
+ {
+   "NAICS_Code": 424470,
+   "NAICS_Title": "Meat and Meat Product Merchant Wholesalers"
+ },
+ {
+   "NAICS_Code": 424480,
+   "NAICS_Title": "Fresh Fruit and Vegetable Merchant Wholesalers"
+ },
+ {
+   "NAICS_Code": 424490,
+   "NAICS_Title": "Other Grocery and Related Products Merchant Wholesalers"
+ },
+ {
+   "NAICS_Code": 424510,
+   "NAICS_Title": "Grain and Field Bean Merchant Wholesalers"
+ },
+ {
+   "NAICS_Code": 424520,
+   "NAICS_Title": "Livestock Merchant Wholesalers"
+ },
+ {
+   "NAICS_Code": 424590,
+   "NAICS_Title": "Other Farm Product Raw Material Merchant Wholesalers"
+ },
+ {
+   "NAICS_Code": 424610,
+   "NAICS_Title": "Plastics Materials and Basic Forms and Shapes Merchant Wholesalers"
+ },
+ {
+   "NAICS_Code": 424690,
+   "NAICS_Title": "Other Chemical and Allied Products Merchant Wholesalers"
+ },
+ {
+   "NAICS_Code": 424710,
+   "NAICS_Title": "Petroleum Bulk Stations and Terminals"
+ },
+ {
+   "NAICS_Code": 424720,
+   "NAICS_Title": "Petroleum and Petroleum Products Merchant Wholesalers (except Bulk Stations and Terminals)"
+ },
+ {
+   "NAICS_Code": 424810,
+   "NAICS_Title": "Beer and Ale Merchant Wholesalers"
+ },
+ {
+   "NAICS_Code": 424820,
+   "NAICS_Title": "Wine and Distilled Alcoholic Beverage Merchant Wholesalers"
+ },
+ {
+   "NAICS_Code": 424910,
+   "NAICS_Title": "Farm Supplies Merchant Wholesalers"
+ },
+ {
+   "NAICS_Code": 424920,
+   "NAICS_Title": "Book, Periodical, and Newspaper Merchant Wholesalers "
+ },
+ {
+   "NAICS_Code": 424930,
+   "NAICS_Title": "Flower, Nursery Stock, and Florists' Supplies Merchant Wholesalers "
+ },
+ {
+   "NAICS_Code": 424940,
+   "NAICS_Title": "Tobacco and Tobacco Product Merchant Wholesalers"
+ },
+ {
+   "NAICS_Code": 424950,
+   "NAICS_Title": "Paint, Varnish, and Supplies Merchant Wholesalers "
+ },
+ {
+   "NAICS_Code": 424990,
+   "NAICS_Title": "Other Miscellaneous Nondurable Goods Merchant Wholesalers"
+ },
+ {
+   "NAICS_Code": 425110,
+   "NAICS_Title": "Business to Business Electronic Markets"
+ },
+ {
+   "NAICS_Code": 425120,
+   "NAICS_Title": "Wholesale Trade Agents and Brokers"
+ },
+ {
+   "NAICS_Code": 441110,
+   "NAICS_Title": "New Car Dealers"
+ },
+ {
+   "NAICS_Code": 441120,
+   "NAICS_Title": "Used Car Dealers"
+ },
+ {
+   "NAICS_Code": 441210,
+   "NAICS_Title": "Recreational Vehicle Dealers"
+ },
+ {
+   "NAICS_Code": 441222,
+   "NAICS_Title": "Boat Dealers"
+ },
+ {
+   "NAICS_Code": 441228,
+   "NAICS_Title": "Motorcycle, ATV, and All Other Motor Vehicle Dealers "
+ },
+ {
+   "NAICS_Code": 441310,
+   "NAICS_Title": "Automotive Parts and Accessories Stores"
+ },
+ {
+   "NAICS_Code": 441320,
+   "NAICS_Title": "Tire Dealers"
+ },
+ {
+   "NAICS_Code": 442110,
+   "NAICS_Title": "Furniture Stores"
+ },
+ {
+   "NAICS_Code": 442210,
+   "NAICS_Title": "Floor Covering Stores"
+ },
+ {
+   "NAICS_Code": 442291,
+   "NAICS_Title": "Window Treatment Stores"
+ },
+ {
+   "NAICS_Code": 442299,
+   "NAICS_Title": "All Other Home Furnishings Stores"
+ },
+ {
+   "NAICS_Code": 443141,
+   "NAICS_Title": "Household Appliance Stores"
+ },
+ {
+   "NAICS_Code": 443142,
+   "NAICS_Title": "Electronics Stores"
+ },
+ {
+   "NAICS_Code": 444110,
+   "NAICS_Title": "Home Centers"
+ },
+ {
+   "NAICS_Code": 444120,
+   "NAICS_Title": "Paint and Wallpaper Stores"
+ },
+ {
+   "NAICS_Code": 444130,
+   "NAICS_Title": "Hardware Stores"
+ },
+ {
+   "NAICS_Code": 444190,
+   "NAICS_Title": "Other Building Material Dealers"
+ },
+ {
+   "NAICS_Code": 444210,
+   "NAICS_Title": "Outdoor Power Equipment Stores"
+ },
+ {
+   "NAICS_Code": 444220,
+   "NAICS_Title": "Nursery, Garden Center, and Farm Supply Stores "
+ },
+ {
+   "NAICS_Code": 445110,
+   "NAICS_Title": "Supermarkets and Other Grocery (except Convenience) Stores"
+ },
+ {
+   "NAICS_Code": 445120,
+   "NAICS_Title": "Convenience Stores"
+ },
+ {
+   "NAICS_Code": 445210,
+   "NAICS_Title": "Meat Markets"
+ },
+ {
+   "NAICS_Code": 445220,
+   "NAICS_Title": "Fish and Seafood Markets"
+ },
+ {
+   "NAICS_Code": 445230,
+   "NAICS_Title": "Fruit and Vegetable Markets"
+ },
+ {
+   "NAICS_Code": 445291,
+   "NAICS_Title": "Baked Goods Stores"
+ },
+ {
+   "NAICS_Code": 445292,
+   "NAICS_Title": "Confectionery and Nut Stores"
+ },
+ {
+   "NAICS_Code": 445299,
+   "NAICS_Title": "All Other Specialty Food Stores"
+ },
+ {
+   "NAICS_Code": 445310,
+   "NAICS_Title": "Beer, Wine, and Liquor Stores "
+ },
+ {
+   "NAICS_Code": 446110,
+   "NAICS_Title": "Pharmacies and Drug Stores"
+ },
+ {
+   "NAICS_Code": 446120,
+   "NAICS_Title": "Cosmetics, Beauty Supplies, and Perfume Stores "
+ },
+ {
+   "NAICS_Code": 446130,
+   "NAICS_Title": "Optical Goods Stores"
+ },
+ {
+   "NAICS_Code": 446191,
+   "NAICS_Title": "Food (Health) Supplement Stores"
+ },
+ {
+   "NAICS_Code": 446199,
+   "NAICS_Title": "All Other Health and Personal Care Stores"
+ },
+ {
+   "NAICS_Code": 447110,
+   "NAICS_Title": "Gasoline Stations with Convenience Stores"
+ },
+ {
+   "NAICS_Code": 447190,
+   "NAICS_Title": "Other Gasoline Stations"
+ },
+ {
+   "NAICS_Code": 448110,
+   "NAICS_Title": "Men's Clothing Stores"
+ },
+ {
+   "NAICS_Code": 448120,
+   "NAICS_Title": "Women's Clothing Stores"
+ },
+ {
+   "NAICS_Code": 448130,
+   "NAICS_Title": "Children's and Infants' Clothing Stores"
+ },
+ {
+   "NAICS_Code": 448140,
+   "NAICS_Title": "Family Clothing Stores"
+ },
+ {
+   "NAICS_Code": 448150,
+   "NAICS_Title": "Clothing Accessories Stores"
+ },
+ {
+   "NAICS_Code": 448190,
+   "NAICS_Title": "Other Clothing Stores"
+ },
+ {
+   "NAICS_Code": 448210,
+   "NAICS_Title": "Shoe Stores"
+ },
+ {
+   "NAICS_Code": 448310,
+   "NAICS_Title": "Jewelry Stores"
+ },
+ {
+   "NAICS_Code": 448320,
+   "NAICS_Title": "Luggage and Leather Goods Stores"
+ },
+ {
+   "NAICS_Code": 451110,
+   "NAICS_Title": "Sporting Goods Stores"
+ },
+ {
+   "NAICS_Code": 451120,
+   "NAICS_Title": "Hobby, Toy, and Game Stores "
+ },
+ {
+   "NAICS_Code": 451130,
+   "NAICS_Title": "Sewing, Needlework, and Piece Goods Stores "
+ },
+ {
+   "NAICS_Code": 451140,
+   "NAICS_Title": "Musical Instrument and Supplies Stores"
+ },
+ {
+   "NAICS_Code": 451211,
+   "NAICS_Title": "Book Stores"
+ },
+ {
+   "NAICS_Code": 451212,
+   "NAICS_Title": "News Dealers and Newsstands"
+ },
+ {
+   "NAICS_Code": 452210,
+   "NAICS_Title": "Department Stores"
+ },
+ {
+   "NAICS_Code": 452311,
+   "NAICS_Title": "Warehouse Clubs and Supercenters"
+ },
+ {
+   "NAICS_Code": 452319,
+   "NAICS_Title": "All Other General Merchandise Stores"
+ },
+ {
+   "NAICS_Code": 453110,
+   "NAICS_Title": "Florists"
+ },
+ {
+   "NAICS_Code": 453210,
+   "NAICS_Title": "Office Supplies and Stationery Stores"
+ },
+ {
+   "NAICS_Code": 453220,
+   "NAICS_Title": "Gift, Novelty, and Souvenir Stores "
+ },
+ {
+   "NAICS_Code": 453310,
+   "NAICS_Title": "Used Merchandise Stores"
+ },
+ {
+   "NAICS_Code": 453910,
+   "NAICS_Title": "Pet and Pet Supplies Stores"
+ },
+ {
+   "NAICS_Code": 453920,
+   "NAICS_Title": "Art Dealers"
+ },
+ {
+   "NAICS_Code": 453930,
+   "NAICS_Title": "Manufactured (Mobile) Home Dealers"
+ },
+ {
+   "NAICS_Code": 453991,
+   "NAICS_Title": "Tobacco Stores"
+ },
+ {
+   "NAICS_Code": 453998,
+   "NAICS_Title": "All Other Miscellaneous Store Retailers (except Tobacco Stores)"
+ },
+ {
+   "NAICS_Code": 454110,
+   "NAICS_Title": "Electronic Shopping and Mail-Order Houses"
+ },
+ {
+   "NAICS_Code": 454210,
+   "NAICS_Title": "Vending Machine Operators"
+ },
+ {
+   "NAICS_Code": 454310,
+   "NAICS_Title": "Fuel Dealers"
+ },
+ {
+   "NAICS_Code": 454390,
+   "NAICS_Title": "Other Direct Selling Establishments"
+ },
+ {
+   "NAICS_Code": 481111,
+   "NAICS_Title": "Scheduled Passenger Air Transportation"
+ },
+ {
+   "NAICS_Code": 481112,
+   "NAICS_Title": "Scheduled Freight Air Transportation"
+ },
+ {
+   "NAICS_Code": 481211,
+   "NAICS_Title": "Nonscheduled Chartered Passenger Air Transportation"
+ },
+ {
+   "NAICS_Code": 481212,
+   "NAICS_Title": "Nonscheduled Chartered Freight Air Transportation"
+ },
+ {
+   "NAICS_Code": 481219,
+   "NAICS_Title": "Other Nonscheduled Air Transportation"
+ },
+ {
+   "NAICS_Code": 482111,
+   "NAICS_Title": "Line-Haul Railroads"
+ },
+ {
+   "NAICS_Code": 482112,
+   "NAICS_Title": "Short Line Railroads"
+ },
+ {
+   "NAICS_Code": 483111,
+   "NAICS_Title": "Deep Sea Freight Transportation"
+ },
+ {
+   "NAICS_Code": 483112,
+   "NAICS_Title": "Deep Sea Passenger Transportation"
+ },
+ {
+   "NAICS_Code": 483113,
+   "NAICS_Title": "Coastal and Great Lakes Freight Transportation"
+ },
+ {
+   "NAICS_Code": 483114,
+   "NAICS_Title": "Coastal and Great Lakes Passenger Transportation"
+ },
+ {
+   "NAICS_Code": 483211,
+   "NAICS_Title": "Inland Water Freight Transportation"
+ },
+ {
+   "NAICS_Code": 483212,
+   "NAICS_Title": "Inland Water Passenger Transportation"
+ },
+ {
+   "NAICS_Code": 484110,
+   "NAICS_Title": "General Freight Trucking, Local "
+ },
+ {
+   "NAICS_Code": 484121,
+   "NAICS_Title": "General Freight Trucking, Long-Distance, Truckload "
+ },
+ {
+   "NAICS_Code": 484122,
+   "NAICS_Title": "General Freight Trucking, Long-Distance, Less Than Truckload "
+ },
+ {
+   "NAICS_Code": 484210,
+   "NAICS_Title": "Used Household and Office Goods Moving"
+ },
+ {
+   "NAICS_Code": 484220,
+   "NAICS_Title": "Specialized Freight (except Used Goods) Trucking, Local "
+ },
+ {
+   "NAICS_Code": 484230,
+   "NAICS_Title": "Specialized Freight (except Used Goods) Trucking, Long-Distance "
+ },
+ {
+   "NAICS_Code": 485111,
+   "NAICS_Title": "Mixed Mode Transit Systems"
+ },
+ {
+   "NAICS_Code": 485112,
+   "NAICS_Title": "Commuter Rail Systems"
+ },
+ {
+   "NAICS_Code": 485113,
+   "NAICS_Title": "Bus and Other Motor Vehicle Transit Systems"
+ },
+ {
+   "NAICS_Code": 485119,
+   "NAICS_Title": "Other Urban Transit Systems"
+ },
+ {
+   "NAICS_Code": 485210,
+   "NAICS_Title": "Interurban and Rural Bus Transportation"
+ },
+ {
+   "NAICS_Code": 485310,
+   "NAICS_Title": "Taxi Service"
+ },
+ {
+   "NAICS_Code": 485320,
+   "NAICS_Title": "Limousine Service"
+ },
+ {
+   "NAICS_Code": 485410,
+   "NAICS_Title": "School and Employee Bus Transportation"
+ },
+ {
+   "NAICS_Code": 485510,
+   "NAICS_Title": "Charter Bus Industry"
+ },
+ {
+   "NAICS_Code": 485991,
+   "NAICS_Title": "Special Needs Transportation"
+ },
+ {
+   "NAICS_Code": 485999,
+   "NAICS_Title": "All Other Transit and Ground Passenger Transportation"
+ },
+ {
+   "NAICS_Code": 486110,
+   "NAICS_Title": "Pipeline Transportation of Crude Oil"
+ },
+ {
+   "NAICS_Code": 486210,
+   "NAICS_Title": "Pipeline Transportation of Natural Gas"
+ },
+ {
+   "NAICS_Code": 486910,
+   "NAICS_Title": "Pipeline Transportation of Refined Petroleum Products"
+ },
+ {
+   "NAICS_Code": 486990,
+   "NAICS_Title": "All Other Pipeline Transportation"
+ },
+ {
+   "NAICS_Code": 487110,
+   "NAICS_Title": "Scenic and Sightseeing Transportation, Land"
+ },
+ {
+   "NAICS_Code": 487210,
+   "NAICS_Title": "Scenic and Sightseeing Transportation, Water"
+ },
+ {
+   "NAICS_Code": 487990,
+   "NAICS_Title": "Scenic and Sightseeing Transportation, Other"
+ },
+ {
+   "NAICS_Code": 488111,
+   "NAICS_Title": "Air Traffic Control"
+ },
+ {
+   "NAICS_Code": 488119,
+   "NAICS_Title": "Other Airport Operations"
+ },
+ {
+   "NAICS_Code": 488190,
+   "NAICS_Title": "Other Support Activities for Air Transportation"
+ },
+ {
+   "NAICS_Code": 488210,
+   "NAICS_Title": "Support Activities for Rail Transportation"
+ },
+ {
+   "NAICS_Code": 488310,
+   "NAICS_Title": "Port and Harbor Operations"
+ },
+ {
+   "NAICS_Code": 488320,
+   "NAICS_Title": "Marine Cargo Handling"
+ },
+ {
+   "NAICS_Code": 488330,
+   "NAICS_Title": "Navigational Services to Shipping"
+ },
+ {
+   "NAICS_Code": 488390,
+   "NAICS_Title": "Other Support Activities for Water Transportation"
+ },
+ {
+   "NAICS_Code": 488410,
+   "NAICS_Title": "Motor Vehicle Towing"
+ },
+ {
+   "NAICS_Code": 488490,
+   "NAICS_Title": "Other Support Activities for Road Transportation"
+ },
+ {
+   "NAICS_Code": 488510,
+   "NAICS_Title": "Freight Transportation Arrangement"
+ },
+ {
+   "NAICS_Code": 488991,
+   "NAICS_Title": "Packing and Crating"
+ },
+ {
+   "NAICS_Code": 488999,
+   "NAICS_Title": "All Other Support Activities for Transportation"
+ },
+ {
+   "NAICS_Code": 491110,
+   "NAICS_Title": "Postal Service"
+ },
+ {
+   "NAICS_Code": 492110,
+   "NAICS_Title": "Couriers and Express Delivery Services"
+ },
+ {
+   "NAICS_Code": 492210,
+   "NAICS_Title": "Local Messengers and Local Delivery"
+ },
+ {
+   "NAICS_Code": 493110,
+   "NAICS_Title": "General Warehousing and Storage"
+ },
+ {
+   "NAICS_Code": 493120,
+   "NAICS_Title": "Refrigerated Warehousing and Storage"
+ },
+ {
+   "NAICS_Code": 493130,
+   "NAICS_Title": "Farm Product Warehousing and Storage"
+ },
+ {
+   "NAICS_Code": 493190,
+   "NAICS_Title": "Other Warehousing and Storage"
+ },
+ {
+   "NAICS_Code": 511110,
+   "NAICS_Title": "Newspaper Publishers"
+ },
+ {
+   "NAICS_Code": 511120,
+   "NAICS_Title": "Periodical Publishers"
+ },
+ {
+   "NAICS_Code": 511130,
+   "NAICS_Title": "Book Publishers"
+ },
+ {
+   "NAICS_Code": 511140,
+   "NAICS_Title": "Directory and Mailing List Publishers"
+ },
+ {
+   "NAICS_Code": 511191,
+   "NAICS_Title": "Greeting Card Publishers"
+ },
+ {
+   "NAICS_Code": 511199,
+   "NAICS_Title": "All Other Publishers"
+ },
+ {
+   "NAICS_Code": 511210,
+   "NAICS_Title": "Software Publishers"
+ },
+ {
+   "NAICS_Code": 512110,
+   "NAICS_Title": "Motion Picture and Video Production"
+ },
+ {
+   "NAICS_Code": 512120,
+   "NAICS_Title": "Motion Picture and Video Distribution"
+ },
+ {
+   "NAICS_Code": 512131,
+   "NAICS_Title": "Motion Picture Theaters (except Drive-Ins)"
+ },
+ {
+   "NAICS_Code": 512132,
+   "NAICS_Title": "Drive-In Motion Picture Theaters"
+ },
+ {
+   "NAICS_Code": 512191,
+   "NAICS_Title": "Teleproduction and Other Postproduction Services"
+ },
+ {
+   "NAICS_Code": 512199,
+   "NAICS_Title": "Other Motion Picture and Video Industries"
+ },
+ {
+   "NAICS_Code": 512230,
+   "NAICS_Title": "Music Publishers"
+ },
+ {
+   "NAICS_Code": 512240,
+   "NAICS_Title": "Sound Recording Studios"
+ },
+ {
+   "NAICS_Code": 512250,
+   "NAICS_Title": "Record Production and Distribution"
+ },
+ {
+   "NAICS_Code": 512290,
+   "NAICS_Title": "Other Sound Recording Industries"
+ },
+ {
+   "NAICS_Code": 515111,
+   "NAICS_Title": "Radio Networks"
+ },
+ {
+   "NAICS_Code": 515112,
+   "NAICS_Title": "Radio Stations"
+ },
+ {
+   "NAICS_Code": 515120,
+   "NAICS_Title": "Television Broadcasting"
+ },
+ {
+   "NAICS_Code": 515210,
+   "NAICS_Title": "Cable and Other Subscription Programming"
+ },
+ {
+   "NAICS_Code": 517311,
+   "NAICS_Title": "Wired Telecommunications Carriers"
+ },
+ {
+   "NAICS_Code": 517312,
+   "NAICS_Title": "Wireless Telecommunications Carriers (except Satellite)"
+ },
+ {
+   "NAICS_Code": 517410,
+   "NAICS_Title": "Satellite Telecommunications"
+ },
+ {
+   "NAICS_Code": 517911,
+   "NAICS_Title": "Telecommunications Resellers"
+ },
+ {
+   "NAICS_Code": 517919,
+   "NAICS_Title": "All Other Telecommunications"
+ },
+ {
+   "NAICS_Code": 518210,
+   "NAICS_Title": "Data Processing, Hosting, and Related Services"
+ },
+ {
+   "NAICS_Code": 519110,
+   "NAICS_Title": "News Syndicates"
+ },
+ {
+   "NAICS_Code": 519120,
+   "NAICS_Title": "Libraries and Archives"
+ },
+ {
+   "NAICS_Code": 519130,
+   "NAICS_Title": "Internet Publishing and Broadcasting and Web Search Portals"
+ },
+ {
+   "NAICS_Code": 519190,
+   "NAICS_Title": "All Other Information Services"
+ },
+ {
+   "NAICS_Code": 521110,
+   "NAICS_Title": "Monetary Authorities-Central Bank"
+ },
+ {
+   "NAICS_Code": 522110,
+   "NAICS_Title": "Commercial Banking"
+ },
+ {
+   "NAICS_Code": 522120,
+   "NAICS_Title": "Savings Institutions"
+ },
+ {
+   "NAICS_Code": 522130,
+   "NAICS_Title": "Credit Unions"
+ },
+ {
+   "NAICS_Code": 522190,
+   "NAICS_Title": "Other Depository Credit Intermediation"
+ },
+ {
+   "NAICS_Code": 522210,
+   "NAICS_Title": "Credit Card Issuing"
+ },
+ {
+   "NAICS_Code": 522220,
+   "NAICS_Title": "Sales Financing"
+ },
+ {
+   "NAICS_Code": 522291,
+   "NAICS_Title": "Consumer Lending"
+ },
+ {
+   "NAICS_Code": 522292,
+   "NAICS_Title": "Real Estate Credit"
+ },
+ {
+   "NAICS_Code": 522293,
+   "NAICS_Title": "International Trade Financing"
+ },
+ {
+   "NAICS_Code": 522294,
+   "NAICS_Title": "Secondary Market Financing"
+ },
+ {
+   "NAICS_Code": 522298,
+   "NAICS_Title": "All Other Nondepository Credit Intermediation"
+ },
+ {
+   "NAICS_Code": 522310,
+   "NAICS_Title": "Mortgage and Nonmortgage Loan Brokers"
+ },
+ {
+   "NAICS_Code": 522320,
+   "NAICS_Title": "Financial Transactions Processing, Reserve, and Clearinghouse Activities "
+ },
+ {
+   "NAICS_Code": 522390,
+   "NAICS_Title": "Other Activities Related to Credit Intermediation"
+ },
+ {
+   "NAICS_Code": 523110,
+   "NAICS_Title": "Investment Banking and Securities Dealing"
+ },
+ {
+   "NAICS_Code": 523120,
+   "NAICS_Title": "Securities Brokerage"
+ },
+ {
+   "NAICS_Code": 523130,
+   "NAICS_Title": "Commodity Contracts Dealing"
+ },
+ {
+   "NAICS_Code": 523140,
+   "NAICS_Title": "Commodity Contracts Brokerage"
+ },
+ {
+   "NAICS_Code": 523210,
+   "NAICS_Title": "Securities and Commodity Exchanges"
+ },
+ {
+   "NAICS_Code": 523910,
+   "NAICS_Title": "Miscellaneous Intermediation"
+ },
+ {
+   "NAICS_Code": 523920,
+   "NAICS_Title": "Portfolio Management"
+ },
+ {
+   "NAICS_Code": 523930,
+   "NAICS_Title": "Investment Advice"
+ },
+ {
+   "NAICS_Code": 523991,
+   "NAICS_Title": "Trust, Fiduciary, and Custody Activities "
+ },
+ {
+   "NAICS_Code": 523999,
+   "NAICS_Title": "Miscellaneous Financial Investment Activities"
+ },
+ {
+   "NAICS_Code": 524113,
+   "NAICS_Title": "Direct Life Insurance Carriers"
+ },
+ {
+   "NAICS_Code": 524114,
+   "NAICS_Title": "Direct Health and Medical Insurance Carriers"
+ },
+ {
+   "NAICS_Code": 524126,
+   "NAICS_Title": "Direct Property and Casualty Insurance Carriers"
+ },
+ {
+   "NAICS_Code": 524127,
+   "NAICS_Title": "Direct Title Insurance Carriers"
+ },
+ {
+   "NAICS_Code": 524128,
+   "NAICS_Title": "Other Direct Insurance (except Life, Health, and Medical) Carriers "
+ },
+ {
+   "NAICS_Code": 524130,
+   "NAICS_Title": "Reinsurance Carriers"
+ },
+ {
+   "NAICS_Code": 524210,
+   "NAICS_Title": "Insurance Agencies and Brokerages"
+ },
+ {
+   "NAICS_Code": 524291,
+   "NAICS_Title": "Claims Adjusting"
+ },
+ {
+   "NAICS_Code": 524292,
+   "NAICS_Title": "Third Party Administration of Insurance and Pension Funds"
+ },
+ {
+   "NAICS_Code": 524298,
+   "NAICS_Title": "All Other Insurance Related Activities"
+ },
+ {
+   "NAICS_Code": 525110,
+   "NAICS_Title": "Pension Funds"
+ },
+ {
+   "NAICS_Code": 525120,
+   "NAICS_Title": "Health and Welfare Funds"
+ },
+ {
+   "NAICS_Code": 525190,
+   "NAICS_Title": "Other Insurance Funds"
+ },
+ {
+   "NAICS_Code": 525910,
+   "NAICS_Title": "Open-End Investment Funds"
+ },
+ {
+   "NAICS_Code": 525920,
+   "NAICS_Title": "Trusts, Estates, and Agency Accounts "
+ },
+ {
+   "NAICS_Code": 525990,
+   "NAICS_Title": "Other Financial Vehicles"
+ },
+ {
+   "NAICS_Code": 531110,
+   "NAICS_Title": "Lessors of Residential Buildings and Dwellings"
+ },
+ {
+   "NAICS_Code": 531120,
+   "NAICS_Title": "Lessors of Nonresidential Buildings (except Miniwarehouses)"
+ },
+ {
+   "NAICS_Code": 531130,
+   "NAICS_Title": "Lessors of Miniwarehouses and Self-Storage Units"
+ },
+ {
+   "NAICS_Code": 531190,
+   "NAICS_Title": "Lessors of Other Real Estate Property"
+ },
+ {
+   "NAICS_Code": 531210,
+   "NAICS_Title": "Offices of Real Estate Agents and Brokers"
+ },
+ {
+   "NAICS_Code": 531311,
+   "NAICS_Title": "Residential Property Managers"
+ },
+ {
+   "NAICS_Code": 531312,
+   "NAICS_Title": "Nonresidential Property Managers"
+ },
+ {
+   "NAICS_Code": 531320,
+   "NAICS_Title": "Offices of Real Estate Appraisers"
+ },
+ {
+   "NAICS_Code": 531390,
+   "NAICS_Title": "Other Activities Related to Real Estate"
+ },
+ {
+   "NAICS_Code": 532111,
+   "NAICS_Title": "Passenger Car Rental"
+ },
+ {
+   "NAICS_Code": 532112,
+   "NAICS_Title": "Passenger Car Leasing"
+ },
+ {
+   "NAICS_Code": 532120,
+   "NAICS_Title": "Truck, Utility Trailer, and RV (Recreational Vehicle) Rental and Leasing "
+ },
+ {
+   "NAICS_Code": 532210,
+   "NAICS_Title": "Consumer Electronics and Appliances Rental"
+ },
+ {
+   "NAICS_Code": 532281,
+   "NAICS_Title": "Formal Wear and Costume Rental"
+ },
+ {
+   "NAICS_Code": 532282,
+   "NAICS_Title": "Video Tape and Disc Rental"
+ },
+ {
+   "NAICS_Code": 532283,
+   "NAICS_Title": "Home Health Equipment Rental"
+ },
+ {
+   "NAICS_Code": 532284,
+   "NAICS_Title": "Recreational Goods Rental"
+ },
+ {
+   "NAICS_Code": 532289,
+   "NAICS_Title": "All Other Consumer Goods Rental"
+ },
+ {
+   "NAICS_Code": 532310,
+   "NAICS_Title": "General Rental Centers"
+ },
+ {
+   "NAICS_Code": 532411,
+   "NAICS_Title": "Commercial Air, Rail, and Water Transportation Equipment Rental and Leasing "
+ },
+ {
+   "NAICS_Code": 532412,
+   "NAICS_Title": "Construction, Mining, and Forestry Machinery and Equipment Rental and Leasing "
+ },
+ {
+   "NAICS_Code": 532420,
+   "NAICS_Title": "Office Machinery and Equipment Rental and Leasing"
+ },
+ {
+   "NAICS_Code": 532490,
+   "NAICS_Title": "Other Commercial and Industrial Machinery and Equipment Rental and Leasing"
+ },
+ {
+   "NAICS_Code": 533110,
+   "NAICS_Title": "Lessors of Nonfinancial Intangible Assets (except Copyrighted Works)"
+ },
+ {
+   "NAICS_Code": 541110,
+   "NAICS_Title": "Offices of Lawyers"
+ },
+ {
+   "NAICS_Code": 541120,
+   "NAICS_Title": "Offices of Notaries"
+ },
+ {
+   "NAICS_Code": 541191,
+   "NAICS_Title": "Title Abstract and Settlement Offices"
+ },
+ {
+   "NAICS_Code": 541199,
+   "NAICS_Title": "All Other Legal Services"
+ },
+ {
+   "NAICS_Code": 541211,
+   "NAICS_Title": "Offices of Certified Public Accountants"
+ },
+ {
+   "NAICS_Code": 541213,
+   "NAICS_Title": "Tax Preparation Services"
+ },
+ {
+   "NAICS_Code": 541214,
+   "NAICS_Title": "Payroll Services"
+ },
+ {
+   "NAICS_Code": 541219,
+   "NAICS_Title": "Other Accounting Services"
+ },
+ {
+   "NAICS_Code": 541310,
+   "NAICS_Title": "Architectural Services"
+ },
+ {
+   "NAICS_Code": 541320,
+   "NAICS_Title": "Landscape Architectural Services"
+ },
+ {
+   "NAICS_Code": 541330,
+   "NAICS_Title": "Engineering Services"
+ },
+ {
+   "NAICS_Code": 541340,
+   "NAICS_Title": "Drafting Services"
+ },
+ {
+   "NAICS_Code": 541350,
+   "NAICS_Title": "Building Inspection Services"
+ },
+ {
+   "NAICS_Code": 541360,
+   "NAICS_Title": "Geophysical Surveying and Mapping Services"
+ },
+ {
+   "NAICS_Code": 541370,
+   "NAICS_Title": "Surveying and Mapping (except Geophysical) Services"
+ },
+ {
+   "NAICS_Code": 541380,
+   "NAICS_Title": "Testing Laboratories"
+ },
+ {
+   "NAICS_Code": 541410,
+   "NAICS_Title": "Interior Design Services"
+ },
+ {
+   "NAICS_Code": 541420,
+   "NAICS_Title": "Industrial Design Services"
+ },
+ {
+   "NAICS_Code": 541430,
+   "NAICS_Title": "Graphic Design Services"
+ },
+ {
+   "NAICS_Code": 541490,
+   "NAICS_Title": "Other Specialized Design Services"
+ },
+ {
+   "NAICS_Code": 541511,
+   "NAICS_Title": "Custom Computer Programming Services"
+ },
+ {
+   "NAICS_Code": 541512,
+   "NAICS_Title": "Computer Systems Design Services"
+ },
+ {
+   "NAICS_Code": 541513,
+   "NAICS_Title": "Computer Facilities Management Services"
+ },
+ {
+   "NAICS_Code": 541519,
+   "NAICS_Title": "Other Computer Related Services"
+ },
+ {
+   "NAICS_Code": 541611,
+   "NAICS_Title": "Administrative Management and General Management Consulting Services"
+ },
+ {
+   "NAICS_Code": 541612,
+   "NAICS_Title": "Human Resources Consulting Services"
+ },
+ {
+   "NAICS_Code": 541613,
+   "NAICS_Title": "Marketing Consulting Services"
+ },
+ {
+   "NAICS_Code": 541614,
+   "NAICS_Title": "Process, Physical Distribution, and Logistics Consulting Services "
+ },
+ {
+   "NAICS_Code": 541618,
+   "NAICS_Title": "Other Management Consulting Services"
+ },
+ {
+   "NAICS_Code": 541620,
+   "NAICS_Title": "Environmental Consulting Services"
+ },
+ {
+   "NAICS_Code": 541690,
+   "NAICS_Title": "Other Scientific and Technical Consulting Services"
+ },
+ {
+   "NAICS_Code": 541713,
+   "NAICS_Title": "Research and Development in Nanotechnology"
+ },
+ {
+   "NAICS_Code": 541714,
+   "NAICS_Title": "Research and Development in Biotechnology (except Nanobiotechnology)"
+ },
+ {
+   "NAICS_Code": 541715,
+   "NAICS_Title": "Research and Development in the Physical, Engineering, and Life Sciences (except Nanotechnology and Biotechnology) "
+ },
+ {
+   "NAICS_Code": 541720,
+   "NAICS_Title": "Research and Development in the Social Sciences and Humanities"
+ },
+ {
+   "NAICS_Code": 541810,
+   "NAICS_Title": "Advertising Agencies"
+ },
+ {
+   "NAICS_Code": 541820,
+   "NAICS_Title": "Public Relations Agencies"
+ },
+ {
+   "NAICS_Code": 541830,
+   "NAICS_Title": "Media Buying Agencies"
+ },
+ {
+   "NAICS_Code": 541840,
+   "NAICS_Title": "Media Representatives"
+ },
+ {
+   "NAICS_Code": 541850,
+   "NAICS_Title": "Outdoor Advertising"
+ },
+ {
+   "NAICS_Code": 541860,
+   "NAICS_Title": "Direct Mail Advertising"
+ },
+ {
+   "NAICS_Code": 541870,
+   "NAICS_Title": "Advertising Material Distribution Services"
+ },
+ {
+   "NAICS_Code": 541890,
+   "NAICS_Title": "Other Services Related to Advertising"
+ },
+ {
+   "NAICS_Code": 541910,
+   "NAICS_Title": "Marketing Research and Public Opinion Polling"
+ },
+ {
+   "NAICS_Code": 541921,
+   "NAICS_Title": "Photography Studios, Portrait "
+ },
+ {
+   "NAICS_Code": 541922,
+   "NAICS_Title": "Commercial Photography"
+ },
+ {
+   "NAICS_Code": 541930,
+   "NAICS_Title": "Translation and Interpretation Services"
+ },
+ {
+   "NAICS_Code": 541940,
+   "NAICS_Title": "Veterinary Services"
+ },
+ {
+   "NAICS_Code": 541990,
+   "NAICS_Title": "All Other Professional, Scientific, and Technical Services"
+ },
+ {
+   "NAICS_Code": 551111,
+   "NAICS_Title": "Offices of Bank Holding Companies"
+ },
+ {
+   "NAICS_Code": 551112,
+   "NAICS_Title": "Offices of Other Holding Companies"
+ },
+ {
+   "NAICS_Code": 551114,
+   "NAICS_Title": "Corporate, Subsidiary, and Regional Managing Offices "
+ },
+ {
+   "NAICS_Code": 561110,
+   "NAICS_Title": "Office Administrative Services"
+ },
+ {
+   "NAICS_Code": 561210,
+   "NAICS_Title": "Facilities Support Services"
+ },
+ {
+   "NAICS_Code": 561311,
+   "NAICS_Title": "Employment Placement Agencies"
+ },
+ {
+   "NAICS_Code": 561312,
+   "NAICS_Title": "Executive Search Services"
+ },
+ {
+   "NAICS_Code": 561320,
+   "NAICS_Title": "Temporary Help Services"
+ },
+ {
+   "NAICS_Code": 561330,
+   "NAICS_Title": "Professional Employer Organizations"
+ },
+ {
+   "NAICS_Code": 561410,
+   "NAICS_Title": "Document Preparation Services"
+ },
+ {
+   "NAICS_Code": 561421,
+   "NAICS_Title": "Telephone Answering Services"
+ },
+ {
+   "NAICS_Code": 561422,
+   "NAICS_Title": "Telemarketing Bureaus and Other Contact Centers"
+ },
+ {
+   "NAICS_Code": 561431,
+   "NAICS_Title": "Private Mail Centers"
+ },
+ {
+   "NAICS_Code": 561439,
+   "NAICS_Title": "Other Business Service Centers (including Copy Shops)"
+ },
+ {
+   "NAICS_Code": 561440,
+   "NAICS_Title": "Collection Agencies"
+ },
+ {
+   "NAICS_Code": 561450,
+   "NAICS_Title": "Credit Bureaus"
+ },
+ {
+   "NAICS_Code": 561491,
+   "NAICS_Title": "Repossession Services"
+ },
+ {
+   "NAICS_Code": 561492,
+   "NAICS_Title": "Court Reporting and Stenotype Services"
+ },
+ {
+   "NAICS_Code": 561499,
+   "NAICS_Title": "All Other Business Support Services"
+ },
+ {
+   "NAICS_Code": 561510,
+   "NAICS_Title": "Travel Agencies"
+ },
+ {
+   "NAICS_Code": 561520,
+   "NAICS_Title": "Tour Operators"
+ },
+ {
+   "NAICS_Code": 561591,
+   "NAICS_Title": "Convention and Visitors Bureaus"
+ },
+ {
+   "NAICS_Code": 561599,
+   "NAICS_Title": "All Other Travel Arrangement and Reservation Services"
+ },
+ {
+   "NAICS_Code": 561611,
+   "NAICS_Title": "Investigation Services"
+ },
+ {
+   "NAICS_Code": 561612,
+   "NAICS_Title": "Security Guards and Patrol Services"
+ },
+ {
+   "NAICS_Code": 561613,
+   "NAICS_Title": "Armored Car Services"
+ },
+ {
+   "NAICS_Code": 561621,
+   "NAICS_Title": "Security Systems Services (except Locksmiths)"
+ },
+ {
+   "NAICS_Code": 561622,
+   "NAICS_Title": "Locksmiths"
+ },
+ {
+   "NAICS_Code": 561710,
+   "NAICS_Title": "Exterminating and Pest Control Services"
+ },
+ {
+   "NAICS_Code": 561720,
+   "NAICS_Title": "Janitorial Services"
+ },
+ {
+   "NAICS_Code": 561730,
+   "NAICS_Title": "Landscaping Services"
+ },
+ {
+   "NAICS_Code": 561740,
+   "NAICS_Title": "Carpet and Upholstery Cleaning Services"
+ },
+ {
+   "NAICS_Code": 561790,
+   "NAICS_Title": "Other Services to Buildings and Dwellings"
+ },
+ {
+   "NAICS_Code": 561910,
+   "NAICS_Title": "Packaging and Labeling Services"
+ },
+ {
+   "NAICS_Code": 561920,
+   "NAICS_Title": "Convention and Trade Show Organizers"
+ },
+ {
+   "NAICS_Code": 561990,
+   "NAICS_Title": "All Other Support Services"
+ },
+ {
+   "NAICS_Code": 562111,
+   "NAICS_Title": "Solid Waste Collection"
+ },
+ {
+   "NAICS_Code": 562112,
+   "NAICS_Title": "Hazardous Waste Collection"
+ },
+ {
+   "NAICS_Code": 562119,
+   "NAICS_Title": "Other Waste Collection"
+ },
+ {
+   "NAICS_Code": 562211,
+   "NAICS_Title": "Hazardous Waste Treatment and Disposal"
+ },
+ {
+   "NAICS_Code": 562212,
+   "NAICS_Title": "Solid Waste Landfill"
+ },
+ {
+   "NAICS_Code": 562213,
+   "NAICS_Title": "Solid Waste Combustors and Incinerators"
+ },
+ {
+   "NAICS_Code": 562219,
+   "NAICS_Title": "Other Nonhazardous Waste Treatment and Disposal"
+ },
+ {
+   "NAICS_Code": 562910,
+   "NAICS_Title": "Remediation Services"
+ },
+ {
+   "NAICS_Code": 562920,
+   "NAICS_Title": "Materials Recovery Facilities"
+ },
+ {
+   "NAICS_Code": 562991,
+   "NAICS_Title": "Septic Tank and Related Services"
+ },
+ {
+   "NAICS_Code": 562998,
+   "NAICS_Title": "All Other Miscellaneous Waste Management Services"
+ },
+ {
+   "NAICS_Code": 611110,
+   "NAICS_Title": "Elementary and Secondary Schools"
+ },
+ {
+   "NAICS_Code": 611210,
+   "NAICS_Title": "Junior Colleges"
+ },
+ {
+   "NAICS_Code": 611310,
+   "NAICS_Title": "Colleges, Universities, and Professional Schools "
+ },
+ {
+   "NAICS_Code": 611410,
+   "NAICS_Title": "Business and Secretarial Schools"
+ },
+ {
+   "NAICS_Code": 611420,
+   "NAICS_Title": "Computer Training"
+ },
+ {
+   "NAICS_Code": 611430,
+   "NAICS_Title": "Professional and Management Development Training"
+ },
+ {
+   "NAICS_Code": 611511,
+   "NAICS_Title": "Cosmetology and Barber Schools"
+ },
+ {
+   "NAICS_Code": 611512,
+   "NAICS_Title": "Flight Training"
+ },
+ {
+   "NAICS_Code": 611513,
+   "NAICS_Title": "Apprenticeship Training"
+ },
+ {
+   "NAICS_Code": 611519,
+   "NAICS_Title": "Other Technical and Trade Schools"
+ },
+ {
+   "NAICS_Code": 611610,
+   "NAICS_Title": "Fine Arts Schools"
+ },
+ {
+   "NAICS_Code": 611620,
+   "NAICS_Title": "Sports and Recreation Instruction"
+ },
+ {
+   "NAICS_Code": 611630,
+   "NAICS_Title": "Language Schools"
+ },
+ {
+   "NAICS_Code": 611691,
+   "NAICS_Title": "Exam Preparation and Tutoring"
+ },
+ {
+   "NAICS_Code": 611692,
+   "NAICS_Title": "Automobile Driving Schools"
+ },
+ {
+   "NAICS_Code": 611699,
+   "NAICS_Title": "All Other Miscellaneous Schools and Instruction"
+ },
+ {
+   "NAICS_Code": 611710,
+   "NAICS_Title": "Educational Support Services"
+ },
+ {
+   "NAICS_Code": 621111,
+   "NAICS_Title": "Offices of Physicians (except Mental Health Specialists)"
+ },
+ {
+   "NAICS_Code": 621112,
+   "NAICS_Title": "Offices of Physicians, Mental Health Specialists "
+ },
+ {
+   "NAICS_Code": 621210,
+   "NAICS_Title": "Offices of Dentists"
+ },
+ {
+   "NAICS_Code": 621310,
+   "NAICS_Title": "Offices of Chiropractors"
+ },
+ {
+   "NAICS_Code": 621320,
+   "NAICS_Title": "Offices of Optometrists"
+ },
+ {
+   "NAICS_Code": 621330,
+   "NAICS_Title": "Offices of Mental Health Practitioners (except Physicians)"
+ },
+ {
+   "NAICS_Code": 621340,
+   "NAICS_Title": "Offices of Physical, Occupational and Speech Therapists, and Audiologists "
+ },
+ {
+   "NAICS_Code": 621391,
+   "NAICS_Title": "Offices of Podiatrists"
+ },
+ {
+   "NAICS_Code": 621399,
+   "NAICS_Title": "Offices of All Other Miscellaneous Health Practitioners"
+ },
+ {
+   "NAICS_Code": 621410,
+   "NAICS_Title": "Family Planning Centers"
+ },
+ {
+   "NAICS_Code": 621420,
+   "NAICS_Title": "Outpatient Mental Health and Substance Abuse Centers"
+ },
+ {
+   "NAICS_Code": 621491,
+   "NAICS_Title": "HMO Medical Centers"
+ },
+ {
+   "NAICS_Code": 621492,
+   "NAICS_Title": "Kidney Dialysis Centers"
+ },
+ {
+   "NAICS_Code": 621493,
+   "NAICS_Title": "Freestanding Ambulatory Surgical and Emergency Centers"
+ },
+ {
+   "NAICS_Code": 621498,
+   "NAICS_Title": "All Other Outpatient Care Centers"
+ },
+ {
+   "NAICS_Code": 621511,
+   "NAICS_Title": "Medical Laboratories"
+ },
+ {
+   "NAICS_Code": 621512,
+   "NAICS_Title": "Diagnostic Imaging Centers"
+ },
+ {
+   "NAICS_Code": 621610,
+   "NAICS_Title": "Home Health Care Services"
+ },
+ {
+   "NAICS_Code": 621910,
+   "NAICS_Title": "Ambulance Services"
+ },
+ {
+   "NAICS_Code": 621991,
+   "NAICS_Title": "Blood and Organ Banks"
+ },
+ {
+   "NAICS_Code": 621999,
+   "NAICS_Title": "All Other Miscellaneous Ambulatory Health Care Services"
+ },
+ {
+   "NAICS_Code": 622110,
+   "NAICS_Title": "General Medical and Surgical Hospitals"
+ },
+ {
+   "NAICS_Code": 622210,
+   "NAICS_Title": "Psychiatric and Substance Abuse Hospitals"
+ },
+ {
+   "NAICS_Code": 622310,
+   "NAICS_Title": "Specialty (except Psychiatric and Substance Abuse) Hospitals"
+ },
+ {
+   "NAICS_Code": 623110,
+   "NAICS_Title": "Nursing Care Facilities (Skilled Nursing Facilities)"
+ },
+ {
+   "NAICS_Code": 623210,
+   "NAICS_Title": "Residential Intellectual and Developmental Disability Facilities"
+ },
+ {
+   "NAICS_Code": 623220,
+   "NAICS_Title": "Residential Mental Health and Substance Abuse Facilities"
+ },
+ {
+   "NAICS_Code": 623311,
+   "NAICS_Title": "Continuing Care Retirement Communities"
+ },
+ {
+   "NAICS_Code": 623312,
+   "NAICS_Title": "Assisted Living Facilities for the Elderly"
+ },
+ {
+   "NAICS_Code": 623990,
+   "NAICS_Title": "Other Residential Care Facilities"
+ },
+ {
+   "NAICS_Code": 624110,
+   "NAICS_Title": "Child and Youth Services"
+ },
+ {
+   "NAICS_Code": 624120,
+   "NAICS_Title": "Services for the Elderly and Persons with Disabilities"
+ },
+ {
+   "NAICS_Code": 624190,
+   "NAICS_Title": "Other Individual and Family Services"
+ },
+ {
+   "NAICS_Code": 624210,
+   "NAICS_Title": "Community Food Services"
+ },
+ {
+   "NAICS_Code": 624221,
+   "NAICS_Title": "Temporary Shelters"
+ },
+ {
+   "NAICS_Code": 624229,
+   "NAICS_Title": "Other Community Housing Services"
+ },
+ {
+   "NAICS_Code": 624230,
+   "NAICS_Title": "Emergency and Other Relief Services"
+ },
+ {
+   "NAICS_Code": 624310,
+   "NAICS_Title": "Vocational Rehabilitation Services"
+ },
+ {
+   "NAICS_Code": 624410,
+   "NAICS_Title": "Child Day Care Services"
+ },
+ {
+   "NAICS_Code": 711110,
+   "NAICS_Title": "Theater Companies and Dinner Theaters"
+ },
+ {
+   "NAICS_Code": 711120,
+   "NAICS_Title": "Dance Companies"
+ },
+ {
+   "NAICS_Code": 711130,
+   "NAICS_Title": "Musical Groups and Artists"
+ },
+ {
+   "NAICS_Code": 711190,
+   "NAICS_Title": "Other Performing Arts Companies"
+ },
+ {
+   "NAICS_Code": 711211,
+   "NAICS_Title": "Sports Teams and Clubs"
+ },
+ {
+   "NAICS_Code": 711212,
+   "NAICS_Title": "Racetracks"
+ },
+ {
+   "NAICS_Code": 711219,
+   "NAICS_Title": "Other Spectator Sports"
+ },
+ {
+   "NAICS_Code": 711310,
+   "NAICS_Title": "Promoters of Performing Arts, Sports, and Similar Events with Facilities "
+ },
+ {
+   "NAICS_Code": 711320,
+   "NAICS_Title": "Promoters of Performing Arts, Sports, and Similar Events without Facilities "
+ },
+ {
+   "NAICS_Code": 711410,
+   "NAICS_Title": "Agents and Managers for Artists, Athletes, Entertainers, and Other Public Figures"
+ },
+ {
+   "NAICS_Code": 711510,
+   "NAICS_Title": "Independent Artists, Writers, and Performers "
+ },
+ {
+   "NAICS_Code": 712110,
+   "NAICS_Title": "Museums"
+ },
+ {
+   "NAICS_Code": 712120,
+   "NAICS_Title": "Historical Sites"
+ },
+ {
+   "NAICS_Code": 712130,
+   "NAICS_Title": "Zoos and Botanical Gardens"
+ },
+ {
+   "NAICS_Code": 712190,
+   "NAICS_Title": "Nature Parks and Other Similar Institutions"
+ },
+ {
+   "NAICS_Code": 713110,
+   "NAICS_Title": "Amusement and Theme Parks"
+ },
+ {
+   "NAICS_Code": 713120,
+   "NAICS_Title": "Amusement Arcades"
+ },
+ {
+   "NAICS_Code": 713210,
+   "NAICS_Title": "Casinos (except Casino Hotels)"
+ },
+ {
+   "NAICS_Code": 713290,
+   "NAICS_Title": "Other Gambling Industries"
+ },
+ {
+   "NAICS_Code": 713910,
+   "NAICS_Title": "Golf Courses and Country Clubs"
+ },
+ {
+   "NAICS_Code": 713920,
+   "NAICS_Title": "Skiing Facilities"
+ },
+ {
+   "NAICS_Code": 713930,
+   "NAICS_Title": "Marinas"
+ },
+ {
+   "NAICS_Code": 713940,
+   "NAICS_Title": "Fitness and Recreational Sports Centers"
+ },
+ {
+   "NAICS_Code": 713950,
+   "NAICS_Title": "Bowling Centers"
+ },
+ {
+   "NAICS_Code": 713990,
+   "NAICS_Title": "All Other Amusement and Recreation Industries"
+ },
+ {
+   "NAICS_Code": 721110,
+   "NAICS_Title": "Hotels (except Casino Hotels) and Motels"
+ },
+ {
+   "NAICS_Code": 721120,
+   "NAICS_Title": "Casino Hotels"
+ },
+ {
+   "NAICS_Code": 721191,
+   "NAICS_Title": "Bed-and-Breakfast Inns"
+ },
+ {
+   "NAICS_Code": 721199,
+   "NAICS_Title": "All Other Traveler Accommodation"
+ },
+ {
+   "NAICS_Code": 721211,
+   "NAICS_Title": "RV (Recreational Vehicle) Parks and Campgrounds"
+ },
+ {
+   "NAICS_Code": 721214,
+   "NAICS_Title": "Recreational and Vacation Camps (except Campgrounds)"
+ },
+ {
+   "NAICS_Code": 721310,
+   "NAICS_Title": "Rooming and Boarding Houses, Dormitories, and Workers' Camps "
+ },
+ {
+   "NAICS_Code": 722310,
+   "NAICS_Title": "Food Service Contractors"
+ },
+ {
+   "NAICS_Code": 722320,
+   "NAICS_Title": "Caterers"
+ },
+ {
+   "NAICS_Code": 722330,
+   "NAICS_Title": "Mobile Food Services"
+ },
+ {
+   "NAICS_Code": 722410,
+   "NAICS_Title": "Drinking Places (Alcoholic Beverages)"
+ },
+ {
+   "NAICS_Code": 722511,
+   "NAICS_Title": "Full-Service Restaurants"
+ },
+ {
+   "NAICS_Code": 722513,
+   "NAICS_Title": "Limited-Service Restaurants"
+ },
+ {
+   "NAICS_Code": 722514,
+   "NAICS_Title": "Cafeterias, Grill Buffets, and Buffets "
+ },
+ {
+   "NAICS_Code": 722515,
+   "NAICS_Title": "Snack and Nonalcoholic Beverage Bars"
+ },
+ {
+   "NAICS_Code": 811111,
+   "NAICS_Title": "General Automotive Repair"
+ },
+ {
+   "NAICS_Code": 811112,
+   "NAICS_Title": "Automotive Exhaust System Repair"
+ },
+ {
+   "NAICS_Code": 811113,
+   "NAICS_Title": "Automotive Transmission Repair"
+ },
+ {
+   "NAICS_Code": 811118,
+   "NAICS_Title": "Other Automotive Mechanical and Electrical Repair and Maintenance"
+ },
+ {
+   "NAICS_Code": 811121,
+   "NAICS_Title": "Automotive Body, Paint, and Interior Repair and Maintenance "
+ },
+ {
+   "NAICS_Code": 811122,
+   "NAICS_Title": "Automotive Glass Replacement Shops"
+ },
+ {
+   "NAICS_Code": 811191,
+   "NAICS_Title": "Automotive Oil Change and Lubrication Shops"
+ },
+ {
+   "NAICS_Code": 811192,
+   "NAICS_Title": "Car Washes"
+ },
+ {
+   "NAICS_Code": 811198,
+   "NAICS_Title": "All Other Automotive Repair and Maintenance"
+ },
+ {
+   "NAICS_Code": 811211,
+   "NAICS_Title": "Consumer Electronics Repair and Maintenance"
+ },
+ {
+   "NAICS_Code": 811212,
+   "NAICS_Title": "Computer and Office Machine Repair and Maintenance"
+ },
+ {
+   "NAICS_Code": 811213,
+   "NAICS_Title": "Communication Equipment Repair and Maintenance"
+ },
+ {
+   "NAICS_Code": 811219,
+   "NAICS_Title": "Other Electronic and Precision Equipment Repair and Maintenance"
+ },
+ {
+   "NAICS_Code": 811310,
+   "NAICS_Title": "Commercial and Industrial Machinery and Equipment (except Automotive and Electronic) Repair and Maintenance"
+ },
+ {
+   "NAICS_Code": 811411,
+   "NAICS_Title": "Home and Garden Equipment Repair and Maintenance"
+ },
+ {
+   "NAICS_Code": 811412,
+   "NAICS_Title": "Appliance Repair and Maintenance"
+ },
+ {
+   "NAICS_Code": 811420,
+   "NAICS_Title": "Reupholstery and Furniture Repair"
+ },
+ {
+   "NAICS_Code": 811430,
+   "NAICS_Title": "Footwear and Leather Goods Repair"
+ },
+ {
+   "NAICS_Code": 811490,
+   "NAICS_Title": "Other Personal and Household Goods Repair and Maintenance"
+ },
+ {
+   "NAICS_Code": 812111,
+   "NAICS_Title": "Barber Shops"
+ },
+ {
+   "NAICS_Code": 812112,
+   "NAICS_Title": "Beauty Salons"
+ },
+ {
+   "NAICS_Code": 812113,
+   "NAICS_Title": "Nail Salons"
+ },
+ {
+   "NAICS_Code": 812191,
+   "NAICS_Title": "Diet and Weight Reducing Centers"
+ },
+ {
+   "NAICS_Code": 812199,
+   "NAICS_Title": "Other Personal Care Services"
+ },
+ {
+   "NAICS_Code": 812210,
+   "NAICS_Title": "Funeral Homes and Funeral Services"
+ },
+ {
+   "NAICS_Code": 812220,
+   "NAICS_Title": "Cemeteries and Crematories"
+ },
+ {
+   "NAICS_Code": 812310,
+   "NAICS_Title": "Coin-Operated Laundries and Drycleaners"
+ },
+ {
+   "NAICS_Code": 812320,
+   "NAICS_Title": "Drycleaning and Laundry Services (except Coin-Operated)"
+ },
+ {
+   "NAICS_Code": 812331,
+   "NAICS_Title": "Linen Supply"
+ },
+ {
+   "NAICS_Code": 812332,
+   "NAICS_Title": "Industrial Launderers"
+ },
+ {
+   "NAICS_Code": 812910,
+   "NAICS_Title": "Pet Care (except Veterinary) Services"
+ },
+ {
+   "NAICS_Code": 812921,
+   "NAICS_Title": "Photofinishing Laboratories (except One-Hour)"
+ },
+ {
+   "NAICS_Code": 812922,
+   "NAICS_Title": "One-Hour Photofinishing"
+ },
+ {
+   "NAICS_Code": 812930,
+   "NAICS_Title": "Parking Lots and Garages"
+ },
+ {
+   "NAICS_Code": 812990,
+   "NAICS_Title": "All Other Personal Services"
+ },
+ {
+   "NAICS_Code": 813110,
+   "NAICS_Title": "Religious Organizations"
+ },
+ {
+   "NAICS_Code": 813211,
+   "NAICS_Title": "Grantmaking Foundations"
+ },
+ {
+   "NAICS_Code": 813212,
+   "NAICS_Title": "Voluntary Health Organizations"
+ },
+ {
+   "NAICS_Code": 813219,
+   "NAICS_Title": "Other Grantmaking and Giving Services"
+ },
+ {
+   "NAICS_Code": 813311,
+   "NAICS_Title": "Human Rights Organizations"
+ },
+ {
+   "NAICS_Code": 813312,
+   "NAICS_Title": "Environment, Conservation and Wildlife Organizations "
+ },
+ {
+   "NAICS_Code": 813319,
+   "NAICS_Title": "Other Social Advocacy Organizations"
+ },
+ {
+   "NAICS_Code": 813410,
+   "NAICS_Title": "Civic and Social Organizations"
+ },
+ {
+   "NAICS_Code": 813910,
+   "NAICS_Title": "Business Associations"
+ },
+ {
+   "NAICS_Code": 813920,
+   "NAICS_Title": "Professional Organizations"
+ },
+ {
+   "NAICS_Code": 813930,
+   "NAICS_Title": "Labor Unions and Similar Labor Organizations"
+ },
+ {
+   "NAICS_Code": 813940,
+   "NAICS_Title": "Political Organizations"
+ },
+ {
+   "NAICS_Code": 813990,
+   "NAICS_Title": "Other Similar Organizations (except Business, Professional, Labor, and Political Organizations) "
+ },
+ {
+   "NAICS_Code": 814110,
+   "NAICS_Title": "Private Households"
+ },
+ {
+   "NAICS_Code": 921110,
+   "NAICS_Title": "Executive Offices"
+ },
+ {
+   "NAICS_Code": 921120,
+   "NAICS_Title": "Legislative Bodies"
+ },
+ {
+   "NAICS_Code": 921130,
+   "NAICS_Title": "Public Finance Activities"
+ },
+ {
+   "NAICS_Code": 921140,
+   "NAICS_Title": "Executive and Legislative Offices, Combined "
+ },
+ {
+   "NAICS_Code": 921150,
+   "NAICS_Title": "American Indian and Alaska Native Tribal Governments"
+ },
+ {
+   "NAICS_Code": 921190,
+   "NAICS_Title": "Other General Government Support"
+ },
+ {
+   "NAICS_Code": 922110,
+   "NAICS_Title": "Courts"
+ },
+ {
+   "NAICS_Code": 922120,
+   "NAICS_Title": "Police Protection"
+ },
+ {
+   "NAICS_Code": 922130,
+   "NAICS_Title": "Legal Counsel and Prosecution"
+ },
+ {
+   "NAICS_Code": 922140,
+   "NAICS_Title": "Correctional Institutions"
+ },
+ {
+   "NAICS_Code": 922150,
+   "NAICS_Title": "Parole Offices and Probation Offices"
+ },
+ {
+   "NAICS_Code": 922160,
+   "NAICS_Title": "Fire Protection"
+ },
+ {
+   "NAICS_Code": 922190,
+   "NAICS_Title": "Other Justice, Public Order, and Safety Activities "
+ },
+ {
+   "NAICS_Code": 923110,
+   "NAICS_Title": "Administration of Education Programs"
+ },
+ {
+   "NAICS_Code": 923120,
+   "NAICS_Title": "Administration of Public Health Programs"
+ },
+ {
+   "NAICS_Code": 923130,
+   "NAICS_Title": "Administration of Human Resource Programs (except Education, Public Health, and Veterans' Affairs Programs) "
+ },
+ {
+   "NAICS_Code": 923140,
+   "NAICS_Title": "Administration of Veterans' Affairs"
+ },
+ {
+   "NAICS_Code": 924110,
+   "NAICS_Title": "Administration of Air and Water Resource and Solid Waste Management Programs"
+ },
+ {
+   "NAICS_Code": 924120,
+   "NAICS_Title": "Administration of Conservation Programs"
+ },
+ {
+   "NAICS_Code": 925110,
+   "NAICS_Title": "Administration of Housing Programs"
+ },
+ {
+   "NAICS_Code": 925120,
+   "NAICS_Title": "Administration of Urban Planning and Community and Rural Development"
+ },
+ {
+   "NAICS_Code": 926110,
+   "NAICS_Title": "Administration of General Economic Programs"
+ },
+ {
+   "NAICS_Code": 926120,
+   "NAICS_Title": "Regulation and Administration of Transportation Programs"
+ },
+ {
+   "NAICS_Code": 926130,
+   "NAICS_Title": "Regulation and Administration of Communications, Electric, Gas, and Other Utilities "
+ },
+ {
+   "NAICS_Code": 926140,
+   "NAICS_Title": "Regulation of Agricultural Marketing and Commodities"
+ },
+ {
+   "NAICS_Code": 926150,
+   "NAICS_Title": "Regulation, Licensing, and Inspection of Miscellaneous Commercial Sectors "
+ },
+ {
+   "NAICS_Code": 927110,
+   "NAICS_Title": "Space Research and Technology"
+ },
+ {
+   "NAICS_Code": 928110,
+   "NAICS_Title": "National Security"
+ },
+ {
+   "NAICS_Code": 928120,
+   "NAICS_Title": "International Affairs"
+ }
+]
