@@ -450,42 +450,6 @@
     "Name": "EL SALVADOR"
   },
   {
-    "Two": "[None Assigned]",
-    "Three": "XAZ",
-    "Numeric": 909,
-    "Name": "ENTITY 1"
-  },
-  {
-    "Two": "[None Assigned]",
-    "Three": "XCR",
-    "Numeric": 910,
-    "Name": "ENTITY 2"
-  },
-  {
-    "Two": "[None Assigned]",
-    "Three": "XCY",
-    "Numeric": 911,
-    "Name": "ENTITY 3"
-  },
-  {
-    "Two": "[None Assigned]",
-    "Three": "XKM",
-    "Numeric": 912,
-    "Name": "ENTITY 4"
-  },
-  {
-    "Two": "[None Assigned]",
-    "Three": "XKN",
-    "Numeric": 913,
-    "Name": "ENTITY 5"
-  },
-  {
-    "Two": "A3",
-    "Three": "AX3",
-    "Numeric": 914,
-    "Name": "ENTITY 6"
-  },
-  {
     "Two": "GQ",
     "Three": "GNQ",
     "Numeric": 226,
